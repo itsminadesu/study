@@ -6,6 +6,10 @@
 ### 特定のversionだけmigrateする
 `bundle exec rake db:migrate:up VERSION=[version]`
 
+### 特定のテストだけ流す
+`describe "#testA", type: :doing do` # testに書く<br>
+`bundle exec rspec --tag type:doing [ファイルパス]` # コマンドを打つ
+
 ### Docker時のpryの立ち上げ
 `docker-compose start rails`<br>
 `docker ps` # プロセスの確認<br>
