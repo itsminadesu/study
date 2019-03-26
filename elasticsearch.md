@@ -31,7 +31,7 @@ Elasticsearchは完全一致による検索だけではなく、関連度の高�
 [Kibana](https://www.elastic.co/jp/products/kibana)はElastic社が開発しているビジュアライゼーションのためのツールで、Elasticserachに入っているデータを様々な形式で描画することができる
 ![alt](https://camo.qiitausercontent.com/86030cf5055f31889072bcd15176131bc0756a5b/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f33353935342f63356235636330392d313534352d323831342d366637382d6361343263313334323239612e706e67)
 
-ちなみにdelyでは`Elasticsearch+Kibana`
+一般的なのは`Elasticsearch+Kibana`？
 
 # 4. 参考文献
 https://www.elastic.co/jp/products/elasticsearch
@@ -42,4 +42,4 @@ https://qiita.com/rjkuro/items/95f71ad522226dc381c8
 https://qiita.com/kitfactory/items/9c2f990d87e33fab828a
 
 # 5. おわりに
-さらっとまとめたけど、慣れるにはチュートリアルやるのが速い
+慣れるにはチュートリアルやるのが速そう
