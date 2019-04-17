@@ -47,17 +47,17 @@
 マイクロサービスの開発に使うことができるフレームワーク
 
 ## Slim
-PHPのマイクロサービスフレームワーク
+PHPのマイクロサービスフレームワーク<br>
 ![alt](https://ec-orange.jp/ec-media/wp-content/uploads/2018/11/microservice_20181112_05.jpg)<br>
 [公式](https://www.slimframework.com/)
 
 ## Lagom
-Javaのマイクロサービスフレームワーク
+Javaのマイクロサービスフレームワーク<br>
 ![alt](https://image.itmedia.co.jp/ait/articles/1806/05/news013_0.jpg)<br>
 [公式](https://www.lightbend.com/lagom-framework)
 
 ## Bottle
-Pythonのマイクロサービスフレームワーク
+Pythonのマイクロサービスフレームワーク<br>
 ![alt](https://ec-orange.jp/ec-media/wp-content/uploads/2018/11/microservice_20181112_07.jpg)<br>
 [公式](http://bottlepy.org/docs/dev/index.html)
 
@@ -67,13 +67,13 @@ Pythonのマイクロサービスフレームワーク
 有名どころだとクックパッド、Amazon、Gunosy、LINE、Netflixなどが挙げられる。最近だとFiNCのスライドがバズってたイメージ
 
 FiNCシリーズ<br>
-https://speakerdeck.com/shinofumijp/microservices-at-finc
-https://www.slideshare.net/fumiyashinozuka/finc-52564251
+https://speakerdeck.com/shinofumijp/microservices-at-finc<br>
+https://www.slideshare.net/fumiyashinozuka/finc-52564251<br>
 http://slides.com/qsona/deck-3#/
 
 
 # 6. 参考文献
-https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9
-https://www.salesforce.com/jp/blog/2016/03/microservices.html
-https://codezine.jp/article/detail/11055
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9<br>
+https://www.salesforce.com/jp/blog/2016/03/microservices.html<br>
+https://codezine.jp/article/detail/11055<br>
 https://ec-orange.jp/ec-media/?p=23458
