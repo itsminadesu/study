@@ -23,7 +23,7 @@
 - [ ] .NET
 
 ## 2. Practice what you learn
-- [×] UNIXコマンド入門(ドットインストール)
+- [x] UNIXコマンド入門(ドットインストール)
 
 ## 3. Learn Package Manager
 - [ ] gem
@@ -37,10 +37,10 @@
 
 ## 6. Learn about Testing
 - [ ] RSpec
-  - [×] https://qiita.com/jnchito/items/42193d066bd61c740612
-  - [×] https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5
-  - [×] https://qiita.com/jnchito/items/640f17e124ab263a54dd
-  - [×] https://qiita.com/jnchito/items/607f956263c38a5fec24
+  - [x] https://qiita.com/jnchito/items/42193d066bd61c740612
+  - [x] https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5
+  - [x] https://qiita.com/jnchito/items/640f17e124ab263a54dd
+  - [x] https://qiita.com/jnchito/items/607f956263c38a5fec24
 
 ## 7. Write Tests for the practical steps above
 - [ ] NomalogでRSpecでテスト書く
@@ -53,15 +53,15 @@
 - [ ] MSSQL
 
 ## 9. Practical Time
-- [×] Nomalog(https://nomalog.herokuapp.com/)
+- [x] Nomalog(https://nomalog.herokuapp.com/)
 
 ## 10. Learn a Framework
-- [×] Ruby on Rails
-  - [×] Progate
-  - [×] Rails Tutorial
+- [x] Ruby on Rails
+  - [x] Progate
+  - [x] Rails Tutorial
 
 ## 11. Practical time
-- [×] Nomalog(https://nomalog.herokuapp.com/)
+- [x] Nomalog(https://nomalog.herokuapp.com/)
 
 ## 12. Learn a NoSQL Database
 - [ ] MongoDB
@@ -71,7 +71,7 @@
 
 ## 13. Caching
 - [ ] Memcached
-  - [×] [Memcachedさらっとまとめ](/memcached.md)
+  - [x] [Memcachedさらっとまとめ](/memcached.md)
 - [ ] Redis
 
 ## 14. Creating RESTful APIs
@@ -91,7 +91,7 @@
 
 ## 17. Learn a Search Engine
 - [ ] ElasticSearch
-  - [×] [Elasticsearchさらっとまとめ](/elasticsearch.md)
+  - [x] [Elasticsearchさらっとまとめ](/elasticsearch.md)
 - [ ] Solr
 - [ ] Sphinx
 
