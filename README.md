@@ -43,9 +43,11 @@
   - [x] https://qiita.com/jnchito/items/607f956263c38a5fec24
 
 ## 7. Write Tests for the practical steps above
-- [ ] Nomalog(https://github.com/itsminadesu/Nomalog)でRSpec書く
+- [ ] Nomalog(https://github.com/itsminadesu/Nomalog) でRSpec書く
 
 ## 8. Learn Relational Databases
+- [x] DB
+  - [x] [DBさらっとまとめ](/db.md)
 - [ ] Oracle
 - [ ] MySQL
 - [ ] MariaDB
@@ -115,6 +117,10 @@
 
 ## 23. All the things that weren't mentioned above
 - [ ] DDD
+- [x] マイクロサービス化
+  - [x] [マイクロサービスさらっとまとめ](/microservices.md)
+- [x] webpack
+  - [x] [webpackさらっとまとめ](/webpack.md)
 
 <br><br>
 Keep Exploring👋
