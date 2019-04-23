@@ -43,7 +43,7 @@
   - [x] https://qiita.com/jnchito/items/607f956263c38a5fec24
 
 ## 7. Write Tests for the practical steps above
-- [ ] NomalogでRSpecでテスト書く
+- [ ] Nomalog(https://github.com/itsminadesu/Nomalog)でRSpec書く
 
 ## 8. Learn Relational Databases
 - [ ] Oracle
@@ -53,7 +53,7 @@
 - [ ] MSSQL
 
 ## 9. Practical Time
-- [x] Nomalog(https://nomalog.herokuapp.com/)
+- [x] Nomalog(https://github.com/itsminadesu/Nomalog)
 
 ## 10. Learn a Framework
 - [x] Ruby on Rails
@@ -61,7 +61,7 @@
   - [x] Rails Tutorial
 
 ## 11. Practical time
-- [x] Nomalog(https://nomalog.herokuapp.com/)
+- [x] Nomalog(https://github.com/itsminadesu/Nomalog)
 
 ## 12. Learn a NoSQL Database
 - [ ] MongoDB
