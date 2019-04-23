@@ -36,7 +36,7 @@
 - [ ] OSS貢献
 
 ## 6. Learn about Testing
-- [ ] RSpec
+- [x] RSpec
   - [x] https://qiita.com/jnchito/items/42193d066bd61c740612
   - [x] https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5
   - [x] https://qiita.com/jnchito/items/640f17e124ab263a54dd
@@ -70,7 +70,7 @@
 - [ ] Couchbase
 
 ## 13. Caching
-- [ ] Memcached
+- [x] Memcached
   - [x] [Memcachedさらっとまとめ](/memcached.md)
 - [ ] Redis
 
@@ -90,7 +90,7 @@
 - [ ] Kafka
 
 ## 17. Learn a Search Engine
-- [ ] ElasticSearch
+- [x] ElasticSearch
   - [x] [Elasticsearchさらっとまとめ](/elasticsearch.md)
 - [ ] Solr
 - [ ] Sphinx
