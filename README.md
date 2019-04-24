@@ -31,9 +31,9 @@
   - [x] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
-- [ ] コーディング規約
-  - [ ] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
-  - [ ] [Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
+- [x] コーディング規約
+  - [x] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
+  - [x] [airbnb / ruby](https://github.com/airbnb/ruby)
 
 ## 5. Make and Distribute Some Package/Library
 - [ ] OSS貢献
