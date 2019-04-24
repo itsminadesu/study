@@ -7,6 +7,7 @@
 4. マイクロサービスフレームワーク
 5. マイクロサービスの事例
 6. 参考文献
+7. おわりに
 
 # 1. マイクロサービスとは
 > マイクロサービス（英語：microservices）とは、ソフトウェア開発の技法の1つであり、1つのアプリケーションを、ビジネス機能に沿った複数の小さいサービスの疎に結合された集合体として構成するサービス指向アーキテクチャ（service-oriented architecture; SOA）の1種である。
@@ -77,3 +78,6 @@ https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%8
 https://www.salesforce.com/jp/blog/2016/03/microservices.html<br>
 https://codezine.jp/article/detail/11055<br>
 https://ec-orange.jp/ec-media/?p=23458
+
+# 7. おわりに
+インターンでごりっとマイクロサービス化のところ触れられそうなので楽しみ

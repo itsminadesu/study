@@ -27,6 +27,7 @@
 
 ## 3. Learn Package Manager
 - [ ] gem
+  - [ ] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
 - [ ] https://github.com/cookpad/styleguide/blob/master/ruby.ja.md
@@ -121,7 +122,7 @@
   - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
   - [x] [webpackさらっとまとめ](/webpack.md)
-
+- [ ] Git/GitHub
 <br><br>
 Keep Exploring👋
 

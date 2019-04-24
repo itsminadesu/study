@@ -1,11 +1,11 @@
-受託でWebpack使ったので備忘録込みの軽いまとめ
+受託でWebpack使ったので備忘録込みのさらっとまとめ
 
 # 目次
 1. Webpackとは
 2. Webpackのメリット
 3. Webpackの基本的な役割
 4. 参考文献
-5. まとめ
+5. おわりに
 
 # 1. Webpackとは
 [Webpack](https://webpack.js.org/)とはウェブコンテンツを構成するファイル(jsとかsassとか)をまとめてしまうツールのこと。Webpackを使うことで、複数のjsファイルをひとつのjsファイルにまとめたり、複数のsassファイルをひとつのsassファイルにしたりできる
@@ -38,5 +38,5 @@ https://goworkship.com/magazine/how-to-webpack/
 https://qiita.com/Shagamii/items/698a67bab0cd5eefcb4f
 https://qiita.com/kamykn/items/45fb4690ace32216ca25
 
-# 5. まとめ
-実際の現場だとセットアップ全部済んだ状態で使うこと多いからあれだけど、個人開発でも取り入れてみよっかな〜
+# 5. おわりに
+実際の現場だとセットアップ全部済んだ状態で使うこと多いから、個人開発で取り入れるのあり
