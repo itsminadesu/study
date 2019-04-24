@@ -23,28 +23,30 @@
 - [ ] .NET
 
 ## 2. Practice what you learn
-- [x] UNIXコマンド入門(ドットインストール)
+- [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 
 ## 3. Learn Package Manager
-- [ ] gem
-  - [ ] [gemさらっとまとめ](/gem.md)
+- [x] gem
+  - [x] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
-- [ ] https://github.com/cookpad/styleguide/blob/master/ruby.ja.md
-- [ ] https://shugo.net/ruby-codeconv/codeconv.html
+- [ ] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
+- [ ] [Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
 
 ## 5. Make and Distribute Some Package/Library
 - [ ] OSS貢献
 
 ## 6. Learn about Testing
 - [x] RSpec
-  - [x] https://qiita.com/jnchito/items/42193d066bd61c740612
-  - [x] https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5
-  - [x] https://qiita.com/jnchito/items/640f17e124ab263a54dd
-  - [x] https://qiita.com/jnchito/items/607f956263c38a5fec24
+  - [x] [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」](https://qiita.com/jnchito/items/42193d066bd61c740612)
+  - [x] [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」
+](https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5)
+  - [x] [使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」](https://qiita.com/jnchito/items/640f17e124ab263a54dd)
+  - [x] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
+](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
 ## 7. Write Tests for the practical steps above
-- [ ] Nomalog(https://github.com/itsminadesu/Nomalog) でRSpec書く
+- [ ] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
 
 ## 8. Learn Relational Databases
 - [x] DB
@@ -56,15 +58,15 @@
 - [ ] MSSQL
 
 ## 9. Practical Time
-- [x] Nomalog(https://github.com/itsminadesu/Nomalog)
+- [x] [Nomalog](https://nomalog.herokuapp.com/)作成
 
 ## 10. Learn a Framework
 - [x] Ruby on Rails
-  - [x] Progate
-  - [x] Rails Tutorial
+  - [x] [Progate](https://prog-8.com/languages/rails5)
+  - [x] [Rails Tutorial](https://railstutorial.jp/)
 
 ## 11. Practical time
-- [x] Nomalog(https://github.com/itsminadesu/Nomalog)
+- [x] [Nomalog](https://nomalog.herokuapp.com/)作成
 
 ## 12. Learn a NoSQL Database
 - [ ] MongoDB
@@ -99,7 +101,7 @@
 - [ ] Sphinx
 
 ## 18. Learn How to Use Docker
-- [ ] ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)
+- [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
 ## 19. Knowledge of Web Servers
 - [ ] Apache
@@ -118,12 +120,15 @@
 
 ## 23. All the things that weren't mentioned above
 - [ ] DDD
-- [x] マイクロサービス化
+- [x] マイクロサービス
   - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
   - [x] [webpackさらっとまとめ](/webpack.md)
-- [ ] Git/GitHub
-<br><br>
+- [x] Git/GitHub
+  - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
+  - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
+
+<br>
 Keep Exploring👋
 
 ![alt](/img/backend_roadmap.png)
