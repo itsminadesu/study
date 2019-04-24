@@ -23,15 +23,17 @@
 - [ ] .NET
 
 ## 2. Practice what you learn
-- [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
+- [x] UNIXコマンド
+  - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 
 ## 3. Learn Package Manager
 - [x] gem
   - [x] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
-- [ ] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
-- [ ] [Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
+- [ ] コーディング規約
+  - [ ] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
+  - [ ] [Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
 
 ## 5. Make and Distribute Some Package/Library
 - [ ] OSS貢献
@@ -46,7 +48,8 @@
 ](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
 ## 7. Write Tests for the practical steps above
-- [ ] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
+- [ ] RSpec
+  - [ ] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
 
 ## 8. Learn Relational Databases
 - [x] DB
@@ -58,7 +61,8 @@
 - [ ] MSSQL
 
 ## 9. Practical Time
-- [x] [Nomalog](https://nomalog.herokuapp.com/)作成
+- [x] 個人開発
+  - [x] [Nomalog](https://nomalog.herokuapp.com/)
 
 ## 10. Learn a Framework
 - [x] Ruby on Rails
@@ -66,7 +70,8 @@
   - [x] [Rails Tutorial](https://railstutorial.jp/)
 
 ## 11. Practical time
-- [x] [Nomalog](https://nomalog.herokuapp.com/)作成
+- [x] 個人開発
+  - [x] [Nomalog](https://nomalog.herokuapp.com/)
 
 ## 12. Learn a NoSQL Database
 - [ ] MongoDB
@@ -101,7 +106,8 @@
 - [ ] Sphinx
 
 ## 18. Learn How to Use Docker
-- [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
+- [ ] Docker
+  - [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
 ## 19. Knowledge of Web Servers
 - [ ] Apache
@@ -124,7 +130,7 @@
   - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
   - [x] [webpackさらっとまとめ](/webpack.md)
-- [x] Git/GitHub
+- [x] Git
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
 
