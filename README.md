@@ -54,8 +54,13 @@
 ## 8. Learn Relational Databases
 - [x] DB
   - [x] [DBさらっとまとめ](/db.md)
+- [x] SQL
+  - [x] [Progate](https://prog-8.com/languages/sql)
+<br><br>
 - [ ] Oracle
-- [ ] MySQL
+- [x] MySQL
+  - [x] [MySQL 入門](https://qiita.com/okamuuu/items/c4efb7dc606d9efe4282)
+  - [x] [MySQLさらっとまとめ](/mysql.md)
 - [ ] MariaDB
 - [ ] PostgreSQL
 - [ ] MSSQL
@@ -125,7 +130,6 @@
 - [ ] Graph DB
 
 ## 23. All the things that weren't mentioned above
-- [ ] DDD
 - [x] マイクロサービス
   - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
@@ -133,6 +137,9 @@
 - [x] Git
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
+- [ ] DDD
+- [ ] オブジェクト指向
+  - [ ] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 
 <br>
 Keep Exploring👋
