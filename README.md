@@ -90,6 +90,17 @@
 - [ ] Redis
 
 ## 14. Creating RESTful APIs
+- [ ] API作成
+  - [ ] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
+  - [ ] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
+  - [ ] [Rails5で超簡単API](https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9)
+  - [ ] [RailsではじめてのRESTful API を作ってみた。](https://qiita.com/akura/items/f7b9e6abd2248c5b3d0f)
+  - [ ] [RailsでAPIを作ろう](https://qiita.com/k-shimoji/items/916a4ade13534acdc754)
+  - [ ] [Rails 初めてのAPI作成 1時間でとりあえず動くまで！！](http://shimadays.com/2018/11/04/rails-api/)
+  - [ ] [Ruby on Railsで外部APIを利用して、簡単なアプリケーションを作成する](https://programming-beginner-zeroichi.jp/articles/140)
+- [ ] WebAPI設計
+  - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+  - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
 - [ ] REST
 - [ ] RESTful APIs
 
