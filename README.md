@@ -5,6 +5,18 @@
 - [ ] Python
 - [ ] Ruby
   - [ ] プロを目指す人のRuby入門
+    - [x] 第1章 本書を読み始める前に
+    - [x] 第2章 Rubyの基礎を理解する
+    - [x] 第3章 テストを自動化する
+    - [x] 第4章 配列や繰り返し処理を理解する
+    - [x] 第5章 ハッシュやシンボルを理解する
+    - [ ] 第6章 正規表現を理解する
+    - [ ] 第7章 クラス作成を理解する
+    - [ ] 第8章 モジュールを理解する
+    - [ ] 第9章 例外処理を理解する
+    - [ ] 第10章 yieldとProcを理解する
+    - [ ] 第11章 Rubyのデバック技法を身につける
+    - [ ] 第12章 Rubyに関するその他のトピック
 - [ ] PHP
 - [ ] Node.js
 - [ ] TypeScript
@@ -93,11 +105,6 @@
 - [ ] API作成
   - [ ] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
   - [ ] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
-  - [ ] [Rails5で超簡単API](https://qiita.com/k-penguin-sato/items/adba7a1a1ecc3582a9c9)
-  - [ ] [RailsではじめてのRESTful API を作ってみた。](https://qiita.com/akura/items/f7b9e6abd2248c5b3d0f)
-  - [ ] [RailsでAPIを作ろう](https://qiita.com/k-shimoji/items/916a4ade13534acdc754)
-  - [ ] [Rails 初めてのAPI作成 1時間でとりあえず動くまで！！](http://shimadays.com/2018/11/04/rails-api/)
-  - [ ] [Ruby on Railsで外部APIを利用して、簡単なアプリケーションを作成する](https://programming-beginner-zeroichi.jp/articles/140)
 - [ ] WebAPI設計
   - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
   - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
@@ -151,6 +158,15 @@
 - [ ] DDD
 - [ ] オブジェクト指向
   - [ ] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
+    - [ ] 第1章 オブジェクト指向設計
+    - [ ] 第2章 単一責任のクラスを設計する
+    - [ ] 第3章 依存関係を管理する
+    - [ ] 第4章 柔軟なインターフェイスをつくる
+    - [ ] 第5章 ダックタイピングでコストを削減する
+    - [ ] 第6章 継承によって振る舞いを獲得する
+    - [ ] 第7章 モジュールでロールの振る舞いを共有する
+    - [ ] 第8章 コンポジションでオブジェクトを組み合わせる
+    - [ ] 第9章 費用対効果の高いテストを設計する
 
 <br>
 Keep Exploring👋
