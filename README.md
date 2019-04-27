@@ -108,8 +108,8 @@
 - [ ] WebAPI設計
   - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
   - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
-- [ ] REST
-- [ ] RESTful APIs
+- [ ] REST / RESTful APIs
+  - [ ] [RESTful APIさらっとまとめ](/restful-api.md)
 
 ## 15. Authentication/Authorization Methodologles
 - [ ] OAuth
