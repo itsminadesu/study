@@ -40,7 +40,10 @@
 
 ## 3. Learn Package Manager
 - [x] gem
-  - [x] [gemさらっとまとめ](/gem.md)
+  - 記事
+    - [x] [ライブラリ? gem? bundler? -- Rubyのgem管理に関するあれこれまとめ](https://qiita.com/3no3_tw/items/8c1e3e95c75edae1036d)
+  - まとめ
+    - [x] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
 - [x] コーディング規約
@@ -71,8 +74,10 @@
 <br><br>
 - [ ] Oracle
 - [x] MySQL
-  - [x] [MySQL 入門](https://qiita.com/okamuuu/items/c4efb7dc606d9efe4282)
-  - [x] [MySQLさらっとまとめ](/mysql.md)
+  - 記事
+    - [x] [MySQL 入門](https://qiita.com/okamuuu/items/c4efb7dc606d9efe4282)
+  - まとめ
+    - [x] [MySQLさらっとまとめ](/mysql.md)
 - [ ] MariaDB
 - [ ] PostgreSQL
 - [ ] MSSQL
@@ -98,7 +103,10 @@
 
 ## 13. Caching
 - [x] Memcached
-  - [x] [Memcachedさらっとまとめ](/memcached.md)
+  - 記事
+    - [x] [NoSQLについて勉強する。](https://qiita.com/t_nakayama0714/items/0ff7644666f0122cfba1)
+  - まとめ
+    - [x] [Memcachedさらっとまとめ](/memcached.md)
 - [ ] Redis
 
 ## 14. Creating RESTful APIs
@@ -108,8 +116,8 @@
 - [ ] WebAPI設計
   - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
   - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
-- [ ] REST / RESTful APIs
-  - [ ] [RESTful APIさらっとまとめ](/restful-api.md)
+- [x] REST / RESTful APIs
+  - [x] [RESTful APIさらっとまとめ](/restful-api.md)
 
 ## 15. Authentication/Authorization Methodologles
 - [ ] OAuth
@@ -149,9 +157,19 @@
 
 ## 23. All the things that weren't mentioned above
 - [x] マイクロサービス
-  - [x] [マイクロサービスさらっとまとめ](/microservices.md)
+  - 記事
+    - [x] [マイクロサービスとは何か？ デジタル変革の時代を生き残るための、テクノロジー入門](https://www.salesforce.com/jp/blog/2016/03/microservices.html)
+    - [x] [これなら分かる！ マイクロサービス（入門編）～モノリスと比較した特徴、利点と課題](https://codezine.jp/article/detail/11055)
+    - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
+    - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
+    - [x] [FiNCでの5年間に渡る マイクロサービスの育て方](https://speakerdeck.com/shinofumijp/microservices-at-finc)
+  - まとめ
+    - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
-  - [x] [webpackさらっとまとめ](/webpack.md)
+  - 記事
+    - [x] [Webpackってどんなもの？](https://qiita.com/kamykn/items/45fb4690ace32216ca25)
+  - まとめ
+    - [x] [webpackさらっとまとめ](/webpack.md)
 - [x] Git
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
@@ -169,7 +187,5 @@
     - [ ] 第9章 費用対効果の高いテストを設計する
     <br><br>
     - [ ] [オブジェクト指向設計実践ガイドさらっとまとめ](/オブジェクト指向設計実践ガイド.md)
-<br>
-Keep Exploring👋
 
 ![alt](/img/backend_roadmap.png)

@@ -32,11 +32,11 @@ Webpackは自分で書いたJSとライブラリとして読み込んでいるJS
 ![alt](https://camo.qiitausercontent.com/3dacc1d70f3e3223763853934e8a6292fafde7a4/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e616d617a6f6e6177732e636f6d2f302f37333434362f34316565366532342d383832352d353466372d646134362d3262613861623731396531332e6a706567)
 
 # 4. 参考文献
-https://webpack.js.org/
-https://github.com/webpack/webpack/
-https://goworkship.com/magazine/how-to-webpack/
-https://qiita.com/Shagamii/items/698a67bab0cd5eefcb4f
-https://qiita.com/kamykn/items/45fb4690ace32216ca25
+https://webpack.js.org/<br>
+https://github.com/webpack/webpack/<br>
+https://goworkship.com/magazine/how-to-webpack/<br>
+https://qiita.com/Shagamii/items/698a67bab0cd5eefcb4f<br>
+https://qiita.com/kamykn/items/45fb4690ace32216ca25<br>
 
 # 5. おわりに
 実際の現場だとセットアップ全部済んだ状態で使うこと多いから、個人開発で取り入れるのあり
