@@ -63,8 +63,8 @@
 ](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
 ## 7. Write Tests for the practical steps above
-- [ ] RSpec
-  - [ ] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
+- [x] RSpec
+  - [x] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
 
 ## 8. Learn Relational Databases
 - [x] DB
@@ -107,7 +107,13 @@
     - [x] [NoSQLについて勉強する。](https://qiita.com/t_nakayama0714/items/0ff7644666f0122cfba1)
   - まとめ
     - [x] [Memcachedさらっとまとめ](/memcached.md)
-- [ ] Redis
+- [x] Redis
+  - 記事
+    - [x] [Redis](https://aws.amazon.com/jp/redis/)
+    - [x] [RedisとElastiCacheを分かりやすくまとめてみた](https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8)
+    - [x] [Redisの特徴と活用方法について](https://www.slideshare.net/yujiotani16/redis-76504393)
+  - まとめ
+    - [x] [Redisさらっとまとめ](/redis.md)
 
 ## 14. Creating RESTful APIs
 - [ ] API作成
