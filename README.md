@@ -120,7 +120,7 @@
   - [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
   - [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
 - [ ] WebAPI設計
-  - [ ] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
+  - [x] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
   - [ ] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
 - [x] REST / RESTful APIs
   - [x] [RESTful APIさらっとまとめ](/restful-api.md)
