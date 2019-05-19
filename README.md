@@ -148,7 +148,14 @@
 
 ## 19. Knowledge of Web Servers
 - [ ] Apache
-- [ ] Nginx
+- [x] Nginx
+  - 記事
+    - [x] [Apacheとnginxどちらを採用すべきかメリット・デメリット比較](https://qiita.com/pink/items/7709218310b5cf11eabe)
+    - [x] [apacheとnginxの比較表とベンチマーク](https://qiita.com/sion_cojp/items/edb20a6b87f10e186c23)
+    - [x] [NginxとApache HTTP Serverの違いメモ](https://qiita.com/tomoyamachi/items/06b2eca14987a30b8fda)
+    - [x] [ApacheとNginxについて比較](https://qiita.com/kamihork/items/49e2a363da7d840a4149)
+  - まとめ
+    - [x] [Nginxさらっとまとめ](/nginx.md)
 - [ ] Caddy
 - [ ] MS IIS
 
