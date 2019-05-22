@@ -20,7 +20,7 @@
 - [ ] PHP
 - [ ] Node.js
 - [ ] TypeScript
-    - [ ] [Revised TypeScript in Definitelyland](http://typescript.ninja/2016/09/04/revised-typescript-in-definitelyland.html)
+    - [ ] Revised TypeScript in Definitelyland
 
 ### Functional Languages
 - [ ] Elixir
@@ -34,7 +34,7 @@
 - [ ] Rust
 - [ ] Java
 - [ ] Kotlin
-    - [ ] [Kotlin Webアプリケーション──新しいサーバサイドプログラミング](https://amzn.to/2HvZ1EX)
+    - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
 - [ ] .NET
 
 ## 2. Practice what you learn
