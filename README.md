@@ -32,6 +32,8 @@
 - [ ] Golang
 - [ ] Rust
 - [ ] Java
+- [ ] Kotlin
+    - [ ] [Kotlin Webアプリケーション──新しいサーバサイドプログラミング](https://amzn.to/2HvZ1EX)
 - [ ] .NET
 
 ## 2. Practice what you learn
