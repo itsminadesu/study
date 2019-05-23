@@ -17,6 +17,8 @@
     - [ ] 第10章 yieldとProcを理解する
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
+  - [ ] メタプログラミングRuby
+  - [ ] Rubyのしくみ　Ruby Under a Microscope
 - [ ] PHP
 - [ ] Node.js
 - [ ] TypeScript
