@@ -18,11 +18,11 @@
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
   - [ ] メタプログラミングRuby
-  - [ ] Rubyのしくみ　Ruby Under a Microscope
+  - [ ] Rubyのしくみ Ruby Under a Microscope
 - [ ] PHP
 - [ ] Node.js
 - [ ] TypeScript
-    - [ ] Revised TypeScript in Definitelyland
+  - [ ] Revised TypeScript in Definitelyland
 
 ### Functional Languages
 - [ ] Elixir
@@ -36,7 +36,7 @@
 - [ ] Rust
 - [ ] Java
 - [ ] Kotlin
-    - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
+  - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
 - [ ] .NET
 
 ## 2. Practice what you learn
@@ -194,11 +194,13 @@
 - [ ] DDD
 - [ ] マスタリングTCP/IP入門編
 - [ ] Webを支える技術
-- [ ] HTTPの教科書
-- [ ] 3分間HTTP＆メールプロトコル基礎講座
 - [ ] リーダブルコード
 - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
 - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
+- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
+- [ ] HTTP
+  - [ ] 3分間HTTP＆メールプロトコル基礎講座
+  - [ ] HTTPの教科書
 - [ ] オブジェクト指向
   - [ ] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
     - 本
@@ -213,6 +215,10 @@
       - [ ] 第9章 費用対効果の高いテストを設計する
     - まとめ
       - [ ] [オブジェクト指向設計実践ガイドさらっとまとめ](/オブジェクト指向設計実践ガイド.md)
-- [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
+- [ ] 正規表現
+  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
+  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう](https://qiita.com/jnchito/items/64c3fdc53766ac6f2008)
+  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その３「空白文字を自由自在に操ろう」](https://qiita.com/jnchito/items/6f0c885c1c4929092578)
+  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その４（最終回）「中級者テクニックをマスターしよう」](https://qiita.com/jnchito/items/b0839f4f4651c29da408)
 
 ![alt](/img/backend_roadmap.png)
