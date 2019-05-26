@@ -45,10 +45,7 @@
 
 ## 3. Learn Package Manager
 - [x] gem
-  - 記事
-    - [x] [ライブラリ? gem? bundler? -- Rubyのgem管理に関するあれこれまとめ](https://qiita.com/3no3_tw/items/8c1e3e95c75edae1036d)
-  - まとめ
-    - [x] [gemさらっとまとめ](/gem.md)
+  - [x] [gemさらっとまとめ](/gem.md)
 
 ## 4. Standards and Best Practices
 - [x] コーディング規約
@@ -79,10 +76,7 @@
 <br><br>
 - [ ] Oracle
 - [x] MySQL
-  - 記事
-    - [x] [MySQL 入門](https://qiita.com/okamuuu/items/c4efb7dc606d9efe4282)
-  - まとめ
-    - [x] [MySQLさらっとまとめ](/mysql.md)
+  - [x] [MySQLさらっとまとめ](/mysql.md)
 - [ ] MariaDB
 - [ ] PostgreSQL
 - [ ] MSSQL
@@ -108,17 +102,9 @@
 
 ## 13. Caching
 - [x] Memcached
-  - 記事
-    - [x] [NoSQLについて勉強する。](https://qiita.com/t_nakayama0714/items/0ff7644666f0122cfba1)
-  - まとめ
-    - [x] [Memcachedさらっとまとめ](/memcached.md)
+  - [x] [Memcachedさらっとまとめ](/memcached.md)
 - [x] Redis
-  - 記事
-    - [x] [Redis](https://aws.amazon.com/jp/redis/)
-    - [x] [RedisとElastiCacheを分かりやすくまとめてみた](https://qiita.com/gold-kou/items/966d9a0332f4e110c4f8)
-    - [x] [Redisの特徴と活用方法について](https://www.slideshare.net/yujiotani16/redis-76504393)
-  - まとめ
-    - [x] [Redisさらっとまとめ](/redis.md)
+  - [x] [Redisさらっとまとめ](/redis.md)
 
 ## 14. Creating RESTful APIs
 - [x] API作成
@@ -154,13 +140,7 @@
 ## 19. Knowledge of Web Servers
 - [ ] Apache
 - [x] Nginx
-  - 記事
-    - [x] [Apacheとnginxどちらを採用すべきかメリット・デメリット比較](https://qiita.com/pink/items/7709218310b5cf11eabe)
-    - [x] [apacheとnginxの比較表とベンチマーク](https://qiita.com/sion_cojp/items/edb20a6b87f10e186c23)
-    - [x] [NginxとApache HTTP Serverの違いメモ](https://qiita.com/tomoyamachi/items/06b2eca14987a30b8fda)
-    - [x] [ApacheとNginxについて比較](https://qiita.com/kamihork/items/49e2a363da7d840a4149)
-  - まとめ
-    - [x] [Nginxさらっとまとめ](/nginx.md)
+  - [x] [Nginxさらっとまとめ](/nginx.md)
 - [ ] Caddy
 - [ ] MS IIS
 
@@ -175,19 +155,13 @@
 
 ## 23. All the things that weren't mentioned above
 - [x] マイクロサービス
-  - 記事
-    - [x] [マイクロサービスとは何か？ デジタル変革の時代を生き残るための、テクノロジー入門](https://www.salesforce.com/jp/blog/2016/03/microservices.html)
-    - [x] [これなら分かる！ マイクロサービス（入門編）～モノリスと比較した特徴、利点と課題](https://codezine.jp/article/detail/11055)
-    - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
-    - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
-    - [x] [FiNCでの5年間に渡る マイクロサービスの育て方](https://speakerdeck.com/shinofumijp/microservices-at-finc)
-  - まとめ
-    - [x] [マイクロサービスさらっとまとめ](/microservices.md)
+  - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
+  - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
+  - [x] [FiNCでの5年間に渡る マイクロサービスの育て方](https://speakerdeck.com/shinofumijp/microservices-at-finc)
+  <br><br>
+  - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - [x] webpack
-  - 記事
-    - [x] [Webpackってどんなもの？](https://qiita.com/kamykn/items/45fb4690ace32216ca25)
-  - まとめ
-    - [x] [webpackさらっとまとめ](/webpack.md)
+  - [x] [webpackさらっとまとめ](/webpack.md)
 - [x] Git
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
