@@ -34,6 +34,12 @@
 
 ### Other Options
 - [ ] Golang
+  - [ ] [Go(Progate)](https://prog-8.com/languages/go)
+  - [ ] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
+  - [ ] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
+  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
+  - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
+  - [ ] はじめての「Go言語」
 - [ ] Rust
 - [ ] Java
 - [ ] Kotlin
@@ -73,7 +79,7 @@
 - [x] DB
   - [x] [DBさらっとまとめ](/db.md)
 - [x] SQL
-  - [x] [Progate](https://prog-8.com/languages/sql)
+  - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
 <br><br>
 - [ ] Oracle
 - [x] MySQL
@@ -88,7 +94,7 @@
 
 ## 10. Learn a Framework
 - [x] Ruby on Rails
-  - [x] [Progate](https://prog-8.com/languages/rails5)
+  - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
 
 ## 11. Practical time
