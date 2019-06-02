@@ -15,8 +15,8 @@
     - [x] 第8章 モジュールを理解する
     - [x] 第9章 例外処理を理解する
     - [x] 第10章 yieldとProcを理解する
-    - [ ] 第11章 Rubyのデバック技法を身につける
-    - [ ] 第12章 Rubyに関するその他のトピック
+    - [x] 第11章 Rubyのデバック技法を身につける
+    - [x] 第12章 Rubyに関するその他のトピック
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
   - [ ] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
