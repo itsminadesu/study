@@ -4,17 +4,17 @@
 ### Scripting Languages
 - [ ] Python
 - [ ] Ruby
-  - [ ] プロを目指す人のRuby入門
+  - [ ] 🍒プロを目指す人のRuby入門
     - [x] 第1章 本書を読み始める前に
     - [x] 第2章 Rubyの基礎を理解する
     - [x] 第3章 テストを自動化する
     - [x] 第4章 配列や繰り返し処理を理解する
     - [x] 第5章 ハッシュやシンボルを理解する
-    - [x] 第6章 正規表現を理解する
+    - [ ] 第6章 正規表現を理解する
     - [x] 第7章 クラス作成を理解する
     - [x] 第8章 モジュールを理解する
     - [x] 第9章 例外処理を理解する
-    - [ ] 第10章 yieldとProcを理解する
+    - [x] 第10章 yieldとProcを理解する
     - [ ] 第11章 Rubyのデバック技法を身につける
     - [ ] 第12章 Rubyに関するその他のトピック
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
@@ -135,7 +135,7 @@
 - [ ] Sphinx
 
 ## 18. Learn How to Use Docker
-- [ ] Docker
+- [ ] 🐳Docker
   - [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
 ## 19. Knowledge of Web Servers
