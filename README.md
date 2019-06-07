@@ -20,6 +20,7 @@
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
   - [ ] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
+  - [ ] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
 - [ ] PHP
 - [ ] Node.js
 - [ ] TypeScript
@@ -96,6 +97,7 @@
 - [x] Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
+  - [ ] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
 
 ## 11. Practical time
 - [x] 個人開発
