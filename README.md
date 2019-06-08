@@ -178,12 +178,9 @@
   - [ ] [もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選](https://www.find-job.net/startup/7-git-slides)
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
 - 開発周り
-  - [ ] [rails開発に加わる前に学んで欲しいこと](https://qiita.com/reikubonaga/items/60b4f6ee0a86ed06e83b)
-  - [ ] [Rubyはじめての人がRails開発に参加するときに最初に知っておくべきこと](https://qiita.com/awakia/items/42525adb473c7cc6b811)
-  - [ ] [Ruby/Railsチェックポイント](https://qiita.com/awakia/items/ea81e2da242e8e28dec6)
-  - [ ] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%83%95%E3%83%AD%E3%83%BC)
-  - [ ] [初めてコードレビューされる人のためのpull requestとcommitの作り方](https://qiita.com/reikubonaga/items/e3b3b19c14d4ef4efb95)
-  - [ ] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
+  - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%83%95%E3%83%AD%E3%83%BC)
+  - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
+  - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
 
 - DDD
 - [ ] マスタリングTCP/IP入門編
@@ -233,5 +230,7 @@
 - [ ] [[初心者向け] プログラムの計算量を求める方法](https://qiita.com/cotrpepe/items/1f4c38cc9d3e3a5f5e9c)
 - [ ] [RubyのArray#include?, Array#bsearch, Set#include? をベンチマークしてみた](https://pocke.hatenablog.com/entry/2014/11/27/224651)
 - [ ] [Rubyでメモ化を使ってフィボナッチ数を求める](http://blog.h13i32maru.jp/entry/20101016/1287227174)
+- [ ] [変更履歴をもつテーブルの話](https://qiita.com/ak-ymst/items/2e8e92f212c807bb09a1)
+- [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 
 ![alt](/img/backend_roadmap.png)
