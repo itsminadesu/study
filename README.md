@@ -175,7 +175,7 @@
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
   - [ ] [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-  - [ ] [もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選](https://www.find-job.net/startup/7-git-slides)
+  - [x] [もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選](https://www.find-job.net/startup/7-git-slides)
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
 - 開発周り
   - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%83%95%E3%83%AD%E3%83%BC)
