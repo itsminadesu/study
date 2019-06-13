@@ -19,6 +19,19 @@
     - [x] 第12章 Rubyに関するその他のトピック
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
   - [ ] メタプログラミングRuby
+    - [ ] 1章 頭文字M
+    - [ ] 2章 月曜日 : オブジェクトモデル
+    - [ ] 3章 火曜日 : メソッド
+    - [ ] 4章 水曜日 : ブロック
+    - [ ] 5章 木曜日 : クラス定義
+    - [ ] 6章 金曜日 : コードを記述するコード
+    - [ ] 7章 エピローグ
+    - [ ] 8章 Rails ツアーの準備
+    - [ ] 9章 ActiveRecordの設計
+    - [ ] 10章 Active SupportのConcernモジュール
+    - [ ] 11章 alias_method_chainの盛衰
+    - [ ] 12章 アトリビュートメソッドの進化
+    - [ ] 13章 最後の教訓
   - [ ] Rubyのしくみ Ruby Under a Microscope
 - PHP
 - Node.js
