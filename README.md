@@ -58,8 +58,8 @@
 - コーディング規約
   - [x] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
   - [x] [airbnb / ruby](https://github.com/airbnb/ruby)
-  - [ ] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
-  - [ ] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
+  - [x] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+  - [x] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
 
 ## 5. Make and Distribute Some Package/Library
 - [ ] OSS貢献
