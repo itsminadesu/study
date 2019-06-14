@@ -1,4 +1,4 @@
-# Back-end Roadmap
+# Roadmap
 
 ## 1. Pick a Language
 ### Scripting Languages
@@ -34,6 +34,11 @@
     - [ ] 13章 最後の教訓
   - [ ] Rubyのしくみ Ruby Under a Microscope
 - PHP
+- JavaScript
+  - [ ] [JavaScript(Progate)](https://prog-8.com/languages/es6)
+  - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
+  - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
+  - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
@@ -114,6 +119,7 @@
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
+- React.js
 
 ## 11. Practical time
 - 個人開発
@@ -242,5 +248,3 @@
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
   - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-
-![alt](/img/backend_roadmap.png)
