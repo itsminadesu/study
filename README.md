@@ -156,6 +156,13 @@
 - WebAPI設計
   - [x] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
   - [x] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
+  - [ ] [WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
+  - [ ] [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた](https://qiita.com/suin/items/f7ac4de914e9f3f35884)
+  - [ ] [Webアプリケーションフレームワーク導入時に考慮すべき22の観点](https://qiita.com/tmknom/items/08b69594e32a92bccee5)
+  - [ ] [Web APIにはJSONベースのフォーマットを使おう](https://qiita.com/tkawa/items/2841e155e5b51c09ed40)
+  - [ ] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
+  - [ ] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
+  - [ ] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
 - REST / RESTful APIs
   - [x] [RESTful APIさらっとまとめ](/restful-api.md)
 
