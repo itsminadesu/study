@@ -84,19 +84,7 @@
 
 ## 6. Learn about Testing
 - RSpec
-  - [ ] Everyday Rails - RSpecによるRailsテスト入門
-    - [x] 1. イントロダクション
-    - [x] 2. RSpecのセットアップ
-    - [x] 3. モデルスペック
-    - [x] 4. 意味のあるテストデータの作成
-    - [x] 5. コントローラスペック
-    - [ ] 6. フィーチャスペックでUIをテストする
-    - [ ] 7. リクエストスペックでAPIをテストする
-    - [ ] 8. スペックをDRYに保つ
-    - [ ] 9. 速くテストを書き、速いテストを書く
-    - [ ] 10. その他のテスト
-    - [ ] 11. テスト駆動開発に向けて
-    - [ ] 12. 最後のアドバイス
+  - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
   - [ ] [Better Specs](http://www.betterspecs.org/)
   - [x] [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」](https://qiita.com/jnchito/items/42193d066bd61c740612)
   - [x] [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」
