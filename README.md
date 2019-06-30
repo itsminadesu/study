@@ -85,7 +85,7 @@
 ## 6. Learn about Testing
 - RSpec
   - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
-  - [ ] [Better Specs](http://www.betterspecs.org/)
+  - [x] [Better Specs](http://www.betterspecs.org/)
   - [x] [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」](https://qiita.com/jnchito/items/42193d066bd61c740612)
   - [x] [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」
 ](https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5)
