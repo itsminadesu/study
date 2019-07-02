@@ -137,10 +137,10 @@
 - Redis
   - [x] [Redisさらっとまとめ](/redis.md)
 
-- [ ] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
-- [ ] [おそ〜いRailsサービスを、はや〜いRailsサービスに改善してみた（調査編）](https://qiita.com/nyappa/items/a05fb3a8725208d57672)
-- [ ] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
-- [ ] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
+- [x] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
+- [x] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
+- [x] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
+- [x] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
 ## 14. Creating RESTful APIs
 - API作成
