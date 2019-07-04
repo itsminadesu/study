@@ -218,6 +218,8 @@
   - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
 
 - DDD
+  - [ ] [実践ドメイン駆動設計](https://www.amazon.co.jp/dp/479813161X)
+  - [ ] [ボトムアップドメイン駆動設計](https://nrslib.com/bottomup-ddd)
 - HTTP
   - [ ] 3分間HTTP＆メールプロトコル基礎講座
   - [ ] HTTPの教科書
