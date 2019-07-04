@@ -210,11 +210,12 @@
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
   - [x] [もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選](https://www.find-job.net/startup/7-git-slides)
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
+  - [x] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
 - 開発周り
   - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%83%95%E3%83%AD%E3%83%BC)
   - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
   - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
-  - [x] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
+  - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
 
 - DDD
 - HTTP
