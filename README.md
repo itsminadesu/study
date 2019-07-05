@@ -1,4 +1,5 @@
 # Roadmap
+**このリポジトリ見た人は最低1PR送ること！笑**
 
 ## 1. Pick a Language
 ### Scripting Languages
@@ -76,8 +77,7 @@
   - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 
 ## 3. Learn Package Manager
-- gem
-  - [x] [gemさらっとまとめ](/gem.md)
+- [ ] 自作gem作って公開する
 
 ## 4. Standards and Best Practices
 - コーディング規約
@@ -100,29 +100,21 @@
   - [x] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
 ](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
-## 7. Write Tests for the practical steps above
-- RSpec
-  - [x] [Nomalog](https://github.com/itsminadesu/Nomalog) でRSpec書く
-
-## 8. Learn Relational Databases
+## 7. Learn Relational Databases
 - DB
-  - [x] [DBさらっとまとめ](/db.md)
   - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 - SQL
   - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
-<br><br>
 - Oracle
 - MySQL
-  - [x] [MySQLさらっとまとめ](/mysql.md)
 - MariaDB
 - PostgreSQL
 - MSSQL
 
-## 9. Practical Time
-- 個人開発
-  - [x] [Nomalog](https://nomalog.herokuapp.com/)
+## 8. Practical Time
+- [x] [Nomalog](https://nomalog.herokuapp.com/)
 
-## 10. Learn a Framework
+## 9. Learn a Framework
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
@@ -134,28 +126,22 @@
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] 作りながら学ぶReact入門
 
-## 11. Practical time
-- 個人開発
-  - [x] [Nomalog](https://nomalog.herokuapp.com/)
-
-## 12. Learn a NoSQL Database
+## 10. Learn a NoSQL Database
 - MongoDB
 - RethinkDB
 - Cassandra
 - Couchbase
 
-## 13. Caching
+## 11. Caching
 - Memcached
-  - [x] [Memcachedさらっとまとめ](/memcached.md)
 - Redis
-  - [x] [Redisさらっとまとめ](/redis.md)
-
+<br><br>
 - [x] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
 - [x] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
 - [x] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
 - [x] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
-## 14. Creating RESTful APIs
+## 12. Creating RESTful APIs
 - API作成
   - [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
   - [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
@@ -168,55 +154,48 @@
   - [x] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
   - [x] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
   - [x] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
-- REST / RESTful APIs
-  - [x] [RESTful APIさらっとまとめ](/restful-api.md)
 
-## 15. Authentication/Authorization Methodologles
+## 13. Authentication/Authorization Methodologles
 - OAuth
 - Basic Authentication
 - Token Authentication
 - JWT
 - OpenID
 
-## 16. Message Brokers
+## 14. Message Brokers
 - RabbitMQ
 - Kafka
 
-## 17. Learn a Search Engine
+## 15. Learn a Search Engine
 - ElasticSearch
-  - [x] [Elasticsearchさらっとまとめ](/elasticsearch.md)
 - Solr
 - Sphinx
 
-## 18. Learn How to Use Docker
+## 16. Learn How to Use Docker
 - 🐳Docker
   - [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
-## 19. Knowledge of Web Servers
+## 17. Knowledge of Web Servers
 - Apache
 - Nginx
-  - [x] [Nginxさらっとまとめ](/nginx.md)
 - Caddy
 - MS IIS
 
-## 20. Learn how to use Web Sockets
+## 18. Learn how to use Web Sockets
 - WebSocket
 
-## 21. Learn GraphQL
+## 19. Learn GraphQL
 - GraphQL
 
-## 22. Look into Graph Databases
+## 20. Look into Graph Databases
 - Graph DB
 
-## 23. All the things that weren't mentioned above
+## 21. All the things that weren't mentioned above
 - マイクロサービス
   - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
   - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
   - [x] [FiNCでの5年間に渡る マイクロサービスの育て方](https://speakerdeck.com/shinofumijp/microservices-at-finc)
-  <br><br>
-  - [x] [マイクロサービスさらっとまとめ](/microservices.md)
 - webpack
-  - [x] [webpackさらっとまとめ](/webpack.md)
 - Git/GitHub
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
@@ -230,8 +209,8 @@
   - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
 
 - DDD
-  - [ ] [実践ドメイン駆動設計](https://www.amazon.co.jp/dp/479813161X)
-  - [ ] [ボトムアップドメイン駆動設計](https://nrslib.com/bottomup-ddd)
+  - [ ] 実践ドメイン駆動設計
+  - [ ] ボトムアップドメイン駆動設計
 - HTTP
   - [ ] 3分間HTTP＆メールプロトコル基礎講座
   - [ ] HTTPの教科書
