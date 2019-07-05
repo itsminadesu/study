@@ -127,7 +127,12 @@
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
 - React.js
+  - [ ] [React(Progate)](https://prog-8.com/languages/react)
+  - [ ] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
+  - [ ] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
+  - [ ] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
+  - [ ] 作りながら学ぶReact入門
 
 ## 11. Practical time
 - 個人開発
