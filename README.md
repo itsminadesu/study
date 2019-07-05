@@ -39,6 +39,13 @@
   - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
   - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
   - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
+  - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811#3---babel%E3%81%A8gulp%E3%81%AB%E3%82%88%E3%82%8Bes6%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
+- CoffeeScript
+  - [ ] [CoffeeScriptは本当に駄目なのか？](https://qiita.com/raccy/items/fae9fc5923d78112d935)
+  - [ ] [CoffeeScriptはやっぱり駄目だった。](https://qiita.com/raccy/items/d9eacd3473e21083dc98)
+  - [ ] [CoffeeScript入門（前編） ― CoffeeScriptの基本構文](https://www.buildinsider.net/web/rubyonrails4/0901)
+  - [ ] [CoffeeScript入門（後編） ― 関数／オブジェクト指向構文／即時関数](https://www.buildinsider.net/web/rubyonrails4/0902)
+  - [ ] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
