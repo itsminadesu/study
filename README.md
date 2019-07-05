@@ -232,6 +232,23 @@
   - [x] リーダブルコード
   - [ ] マスタリングTCP/IP入門編
   - [ ] Webを支える技術
+    - [ ] 第1章 Webとは何か
+    - [ ] 第2章 Webの歴史
+    - [ ] 第3章 REST
+    - [ ] 第4章 URIの仕様
+    - [ ] 第5章 URIの設計
+    - [ ] 第6章 HTTPの基本
+    - [ ] 第7章 HTTPメソッド
+    - [ ] 第8章 ステータスコード
+    - [ ] 第9章 HTTPヘッダ
+    - [ ] 第10章 HTML
+    - [ ] 第11章 microformats
+    - [ ] 第12章 Atom
+    - [ ] 第13章 Atom Publishing Protocol
+    - [ ] 第14章 JSON
+    - [ ] 第15章 読み取り専用のWebサービスの設計
+    - [ ] 第16章 書き込み可能なWebサービスの設計
+    - [ ] 第17章 リソースの設計
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
   - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
