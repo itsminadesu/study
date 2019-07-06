@@ -35,7 +35,7 @@
   - [ ] Rubyのしくみ Ruby Under a Microscope
 - PHP
 - JavaScript
-  - [ ] [JavaScript(Progate)](https://prog-8.com/languages/es6)
+  - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
   - [ ] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
   - [ ] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
   - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
