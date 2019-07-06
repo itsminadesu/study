@@ -1,8 +1,7 @@
 # Roadmap
 **このリポジトリ見た人は最低1PR送ること！笑**
 
-## 1. Pick a Language
-### Scripting Languages
+## Pick a Language
 - Python
 - Ruby
   - [ ] 🍒プロを目指す人のRuby入門
@@ -50,15 +49,6 @@
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
-
-### Functional Languages
-- Elixir
-- Scala
-- Erlang
-- Clojure
-- Haskell
-
-### Other Options
 - Golang
   - [ ] [Go(Progate)](https://prog-8.com/languages/go)
   - [ ] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
@@ -70,26 +60,36 @@
 - Java
 - Kotlin
   - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
-- .NET
 
-## 2. Practice what you learn
-- UNIXコマンド
+## Learn about Managing Servers
+- Unix
   - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
+- Linux
+- Windows
 
-## 3. Learn Package Manager
+## Networking and Security
+- DNS
+- HTTP
+  - [ ] 3分間HTTP＆メールプロトコル基礎講座
+  - [ ] HTTPの教科書
+- HTTPS
+- FTP
+- SSL/TLS
+
+## Learn Package Manager
 - [ ] 自作gem作って公開する
 
-## 4. Standards and Best Practices
+## Standards and Best Practices
 - コーディング規約
   - [x] [cookpad / styleguide](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
   - [x] [airbnb / ruby](https://github.com/airbnb/ruby)
   - [x] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
   - [x] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
 
-## 5. Make and Distribute Some Package/Library
+## Make and Distribute Some Package/Library
 - [ ] OSS貢献
 
-## 6. Learn about Testing
+## Learn about Testing
 - RSpec
   - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
   - [x] [Better Specs](http://www.betterspecs.org/)
@@ -100,7 +100,7 @@
   - [x] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
 ](https://qiita.com/jnchito/items/607f956263c38a5fec24)
 
-## 7. Learn Relational Databases
+## Learn Relational Databases
 - DB
   - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 - SQL
@@ -111,10 +111,7 @@
 - PostgreSQL
 - MSSQL
 
-## 8. Practical Time
-- [x] [Nomalog](https://nomalog.herokuapp.com/)
-
-## 9. Learn a Framework
+## Learn a Framework
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
@@ -127,13 +124,13 @@
   - [ ] 作りながら学ぶReact入門
   - [ ] React開発 現場の教科書
 
-## 10. Learn a NoSQL Database
+## Learn a NoSQL Database
 - MongoDB
 - RethinkDB
 - Cassandra
 - Couchbase
 
-## 11. Caching
+## Caching
 - Memcached
 - Redis
 <br><br>
@@ -142,7 +139,7 @@
 - [x] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
 - [x] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
-## 12. Creating RESTful APIs
+## Creating RESTful APIs
 - API作成
   - [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
   - [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
@@ -156,42 +153,56 @@
   - [x] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
   - [x] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
 
-## 13. Authentication/Authorization Methodologles
+## Authentication/Authorization Methodologles
 - OAuth
 - Basic Authentication
 - Token Authentication
 - JWT
 - OpenID
 
-## 14. Message Brokers
+## Message Brokers
 - RabbitMQ
 - Kafka
 
-## 15. Learn a Search Engine
+## Learn a Search Engine
 - ElasticSearch
 - Solr
 - Sphinx
 
-## 16. Learn How to Use Docker
+## Learn How to Use Docker
 - 🐳Docker
   - [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
-## 17. Knowledge of Web Servers
+## Knowledge of Web Servers
 - Apache
 - Nginx
 - Caddy
 - MS IIS
 
-## 18. Learn how to use Web Sockets
+## Learn how to use Web Sockets
 - WebSocket
 
-## 19. Learn GraphQL
+## Learn GraphQL
 - GraphQL
 
-## 20. Look into Graph Databases
+## Look into Graph Databases
 - Graph DB
 
-## 21. All the things that weren't mentioned above
+## Learn some CI/CD Tool
+- Jenkins
+- Travis CI
+- TeamCity
+- Drone
+- Circle CI
+
+## Cloud Providers
+- AWS
+- Google Cloud
+- Azure
+- Digital Ocean
+- Heroku
+
+## All the things that weren't mentioned above
 - マイクロサービス
   - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
   - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
@@ -208,13 +219,9 @@
   - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
   - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
   - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
-
 - DDD
   - [ ] 実践ドメイン駆動設計
   - [ ] ボトムアップドメイン駆動設計
-- HTTP
-  - [ ] 3分間HTTP＆メールプロトコル基礎講座
-  - [ ] HTTPの教科書
 - オブジェクト指向設計
   - [x] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - 正規表現
