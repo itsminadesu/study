@@ -125,6 +125,7 @@
   - [ ] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] 作りながら学ぶReact入門
+  - [ ] React開発 現場の教科書
 
 ## 10. Learn a NoSQL Database
 - MongoDB
@@ -214,7 +215,7 @@
 - HTTP
   - [ ] 3分間HTTP＆メールプロトコル基礎講座
   - [ ] HTTPの教科書
-- オブジェクト指向
+- オブジェクト指向設計
   - [x] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
 - 正規表現
   - [ ] [初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
