@@ -38,7 +38,7 @@
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
   - [x] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
   - [x] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
-  - [ ] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
+  - [x] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
   - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
 - CoffeeScript
   - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
