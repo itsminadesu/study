@@ -42,11 +42,7 @@
   - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
 - CoffeeScript
   - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
-  - [ ] [CoffeeScriptは本当に駄目なのか？](https://qiita.com/raccy/items/fae9fc5923d78112d935)
-  - [ ] [CoffeeScriptはやっぱり駄目だった。](https://qiita.com/raccy/items/d9eacd3473e21083dc98)
-  - [ ] [CoffeeScript入門（前編） ― CoffeeScriptの基本構文](https://www.buildinsider.net/web/rubyonrails4/0901)
-  - [ ] [CoffeeScript入門（後編） ― 関数／オブジェクト指向構文／即時関数](https://www.buildinsider.net/web/rubyonrails4/0902)
-  - [ ] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
+  - [x] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
 - Node.js
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
@@ -204,19 +200,14 @@
 - Heroku
 
 ## All the things that weren't mentioned above
-- マイクロサービス
-  - [x] [サービスの成長を支えたRailsとマイクロサービス](http://slides.com/qsona/deck-3#/)
-  - [x] [FiNCとマイクロサービス](https://www.slideshare.net/fumiyashinozuka/finc-52564251)
-  - [x] [FiNCでの5年間に渡る マイクロサービスの育て方](https://speakerdeck.com/shinofumijp/microservices-at-finc)
 - webpack
 - Git/GitHub
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
-  - [x] [もっと早く知りたかった！ Gitが鬼のようにわかるスライド厳選7選](https://www.find-job.net/startup/7-git-slides)
-  - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
   - [x] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
+  - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
 - 開発周り
-  - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f#%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%83%95%E3%83%AD%E3%83%BC)
+  - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f)
   - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
   - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
   - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
