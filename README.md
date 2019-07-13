@@ -122,7 +122,7 @@
   - [ ] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
   - [ ] [ReactでTodo管理アプリを作ろう](https://dotinstall.com/lessons/todo_reactjs)
   - [ ] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
-  - [ ] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
+  - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] 作りながら学ぶReact入門
   - [ ] React開発 現場の教科書
