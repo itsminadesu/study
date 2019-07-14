@@ -120,7 +120,6 @@
   - [x] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
   - [ ] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
   - [ ] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
-  - [ ] [ReactでTodo管理アプリを作ろう](https://dotinstall.com/lessons/todo_reactjs)
   - [x] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
   - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
