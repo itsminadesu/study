@@ -28,8 +28,8 @@
     - [x] 7章 エピローグ
     - [x] 8章 Rails ツアーの準備
     - [x] 9章 ActiveRecordの設計
-    - [ ] 10章 Active SupportのConcernモジュール
-    - [ ] 11章 alias_method_chainの盛衰
+    - [x] 10章 Active SupportのConcernモジュール
+    - [x] 11章 alias_method_chainの盛衰
     - [ ] 12章 アトリビュートメソッドの進化
     - [ ] 13章 最後の教訓
   - [ ] Rubyのしくみ Ruby Under a Microscope
