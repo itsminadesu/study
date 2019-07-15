@@ -115,7 +115,7 @@
 - React.js
   - [x] [React(Progate)](https://prog-8.com/languages/react)
   - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
-  - [ ] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
+  - [x] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
   - [x] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
   - [ ] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
