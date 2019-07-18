@@ -33,6 +33,7 @@
     - [ ] 12章 アトリビュートメソッドの進化
     - [ ] 13章 最後の教訓
   - [ ] Rubyのしくみ Ruby Under a Microscope
+  - [ ] Effective Ruby
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
