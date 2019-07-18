@@ -41,6 +41,7 @@
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
   - [ ] はじめての「Go言語」
+  - [ ] Goで作るインタプリタ
 - Rust
 - Java
 - Kotlin
