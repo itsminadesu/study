@@ -101,6 +101,7 @@
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
+  - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
 - React.js
   - [x] [React(Progate)](https://prog-8.com/languages/react)
   - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
