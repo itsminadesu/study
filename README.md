@@ -102,6 +102,51 @@
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
+    - [ ] Railsをはじめよう
+    - [ ] Active Recordの基礎
+    - [ ] Active Recordマイグレーション
+    - [ ] Active Recordバリデーション
+    - [ ] Active Recordコールバック
+    - [ ] Active Recordの関連付け
+    - [ ] Active Recordクエリインターフェイス
+    - [ ] Active RecordとPostgreSQL
+    - [ ] Active Modelの基礎
+    - [ ] Action Viewの概要
+    - [ ] レイアウトとレンダリング
+    - [ ] Action Viewフォームヘルパー
+    - [ ] Action Controllerの概要
+    - [ ] Rails のルーティング
+    - [ ] Active Supportコア拡張機能
+    - [ ] Action Mailerの基礎
+    - [ ] Action Mailboxの基礎
+    - [ ] Action Textの概要
+    - [ ] Active Jobの基礎
+    - [ ] Active Storageの概要
+    - [ ] Action Cableの概要
+    - [ ] Rails国際化(i18n)API
+    - [ ] Railsテスティングガイド
+    - [ ] Railsセキュリティガイド
+    - [ ] Railsアプリケーションのデバッグ
+    - [ ] Railsアプリケーションを設定する
+    - [ ] コマンドラインツール
+    - [ ] アセットパイプライン
+    - [ ] RailsでJavaScriptを使用する
+    - [ ] Rails の初期化プロセス
+    - [ ] 定数の自動読み込みと再読み込み
+    - [ ] Railsのキャッシュ機構
+    - [ ] Active SupportのInstrumentation機能
+    - [ ] Railsアプリケーションのテンプレート
+    - [ ] RailsによるAPI専用アプリケーション
+    - [ ] Railsプラグイン作成入門
+    - [ ] RailsとRack
+    - [ ] Railsジェネレータとテンプレート入門
+    - [ ] Railsエンジン入門
+    - [ ] Rails のスレッドとコード実行
+    - [ ] Ruby on Rails に貢献する方法
+    - [ ] Railsコア開発環境の構築方法
+    - [ ] APIドキュメント作成ガイドライン
+    - [ ] Railsガイドのガイドライン
+
 - React.js
   - [x] [React(Progate)](https://prog-8.com/languages/react)
   - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
