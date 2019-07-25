@@ -103,7 +103,7 @@
   - [x] [Rails Tutorial](https://railstutorial.jp/)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
     - [ ] Railsをはじめよう
-    - [ ] Active Recordの基礎
+    - [x] Active Recordの基礎
     - [ ] Active Recordマイグレーション
     - [ ] Active Recordバリデーション
     - [ ] Active Recordコールバック
