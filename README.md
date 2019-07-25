@@ -106,7 +106,7 @@
     - [x] Active Recordの基礎
     - [ ] Active Recordマイグレーション
     - [ ] Active Recordバリデーション
-    - [ ] Active Recordコールバック
+    - [x] Active Recordコールバック
     - [ ] Active Recordの関連付け
     - [ ] Active Recordクエリインターフェイス
     - [ ] Active RecordとPostgreSQL
