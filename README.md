@@ -105,7 +105,7 @@
     - [ ] Railsをはじめよう
     - [x] Active Recordの基礎
     - [ ] Active Recordマイグレーション
-    - [ ] Active Recordバリデーション
+    - [x] Active Recordバリデーション
     - [x] Active Recordコールバック
     - [ ] Active Recordの関連付け
     - [ ] Active Recordクエリインターフェイス
