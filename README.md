@@ -111,7 +111,7 @@
     - [ ] Active Recordクエリインターフェイス
     - [ ] Active RecordとPostgreSQL
     - [ ] Active Modelの基礎
-    - [ ] Action Viewの概要
+    - [x] Action Viewの概要
     - [ ] レイアウトとレンダリング
     - [ ] Action Viewフォームヘルパー
     - [ ] Action Controllerの概要
