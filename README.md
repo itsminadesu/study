@@ -112,7 +112,7 @@
     - [ ] Active RecordとPostgreSQL
     - [ ] Active Modelの基礎
     - [x] Action Viewの概要
-    - [ ] レイアウトとレンダリング
+    - [x] レイアウトとレンダリング
     - [ ] Action Viewフォームヘルパー
     - [ ] Action Controllerの概要
     - [ ] Rails のルーティング
