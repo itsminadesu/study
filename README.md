@@ -104,7 +104,7 @@
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
     - [ ] Railsをはじめよう
     - [x] Active Recordの基礎
-    - [ ] Active Recordマイグレーション
+    - [x] Active Recordマイグレーション
     - [x] Active Recordバリデーション
     - [x] Active Recordコールバック
     - [ ] Active Recordの関連付け
