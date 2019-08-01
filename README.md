@@ -110,7 +110,7 @@
     - [ ] Active Recordの関連付け
     - [ ] Active Recordクエリインターフェイス
     - [ ] Active RecordとPostgreSQL
-    - [ ] Active Modelの基礎
+    - [x] Active Modelの基礎
     - [x] Action Viewの概要
     - [x] レイアウトとレンダリング
     - [ ] Action Viewフォームヘルパー
