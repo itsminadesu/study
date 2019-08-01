@@ -120,7 +120,7 @@
     - [ ] Action Mailerの基礎
     - [ ] Action Mailboxの基礎
     - [ ] Action Textの概要
-    - [ ] Active Jobの基礎
+    - [x] Active Jobの基礎
     - [ ] Active Storageの概要
     - [ ] Action Cableの概要
     - [ ] Rails国際化(i18n)API
