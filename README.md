@@ -137,7 +137,7 @@
     - [ ] Railsのキャッシュ機構
     - [ ] Active SupportのInstrumentation機能
     - [ ] Railsアプリケーションのテンプレート
-    - [ ] RailsによるAPI専用アプリケーション
+    - [x] RailsによるAPI専用アプリケーション
     - [ ] Railsプラグイン作成入門
     - [ ] RailsとRack
     - [ ] Railsジェネレータとテンプレート入門
