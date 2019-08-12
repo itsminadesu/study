@@ -95,7 +95,7 @@
 - MySQL
 - MariaDB
 - PostgreSQL
-  - [ ] [PostgreSQL入門(ドットインストール)](https://dotinstall.com/lessons/basic_postgresql)
+  - [x] [PostgreSQL入門(ドットインストール)](https://dotinstall.com/lessons/basic_postgresql)
 - MSSQL
 
 ## Learn a Framework
