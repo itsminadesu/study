@@ -277,7 +277,7 @@
     - [x] 第6章 HTTPの基本
     - [x] 第7章 HTTPメソッド
     - [x] 第8章 ステータスコード
-    - [ ] 第9章 HTTPヘッダ
+    - [x] 第9章 HTTPヘッダ
     - [ ] 第10章 HTML
     - [ ] 第11章 microformats
     - [ ] 第12章 Atom
