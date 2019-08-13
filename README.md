@@ -134,7 +134,7 @@
     - [ ] RailsでJavaScriptを使用する
     - [ ] Rails の初期化プロセス
     - [ ] 定数の自動読み込みと再読み込み
-    - [ ] Railsのキャッシュ機構
+    - [x] Railsのキャッシュ機構
     - [ ] Active SupportのInstrumentation機能
     - [ ] Railsアプリケーションのテンプレート
     - [x] RailsによるAPI専用アプリケーション
