@@ -132,7 +132,7 @@
     - [ ] コマンドラインツール
     - [x] アセットパイプライン
     - [ ] RailsでJavaScriptを使用する
-    - [ ] Rails の初期化プロセス
+    - [x] Rails の初期化プロセス
     - [ ] 定数の自動読み込みと再読み込み
     - [x] Railsのキャッシュ機構
     - [ ] Active SupportのInstrumentation機能
