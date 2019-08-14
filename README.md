@@ -280,7 +280,7 @@
     - [x] 第9章 HTTPヘッダ
     - [x] 第10章 HTML
     - [x] 第11章 microformats
-    - [ ] 第12章 Atom
+    - [x] 第12章 Atom
     - [ ] 第13章 Atom Publishing Protocol
     - [ ] 第14章 JSON
     - [ ] 第15章 読み取り専用のWebサービスの設計
