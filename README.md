@@ -205,7 +205,7 @@
 ## Learn a Search Engine
 - ElasticSearch
   - [ ] [はじめてのElasticsearch](https://qiita.com/nskydiving/items/1c2dc4e0b9c98d164329)
-  - [ ] [Elasticsearchリファレンス(https://www.elastic.co/guide/jp/elasticsearch/reference/current/getting-started.html)
+  - [ ] [Elasticsearchリファレンス](https://www.elastic.co/guide/jp/elasticsearch/reference/current/getting-started.html)
   - [ ] [Elasticsearchチュートリアル](http://code46.hatenablog.com/entry/2014/01/21/115620)
 - Solr
 - Sphinx
