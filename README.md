@@ -267,27 +267,10 @@
   - [ ] [初心者歓迎！手と目で覚える正規表現入門・その４（最終回）「中級者テクニックをマスターしよう」](https://qiita.com/jnchito/items/b0839f4f4651c29da408)
 - その他
   - [x] リーダブルコード
+  - [x] Webを支える技術
   - [ ] マスタリングTCP/IP入門編
-  - [ ] Webを支える技術
-    - [x] 第1章 Webとは何か
-    - [x] 第2章 Webの歴史
-    - [x] 第3章 REST
-    - [x] 第4章 URIの仕様
-    - [x] 第5章 URIの設計
-    - [x] 第6章 HTTPの基本
-    - [x] 第7章 HTTPメソッド
-    - [x] 第8章 ステータスコード
-    - [x] 第9章 HTTPヘッダ
-    - [x] 第10章 HTML
-    - [x] 第11章 microformats
-    - [x] 第12章 Atom
-    - [x] 第13章 Atom Publishing Protocol
-    - [x] 第14章 JSON
-    - [x] 第15章 読み取り専用のWebサービスの設計
-    - [x] 第16章 書き込み可能なWebサービスの設計
-    - [ ] 第17章 リソースの設計
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
   - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-  - [ ] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.amazon.co.jp/dp/B071V7MY82/)
-  - [ ] [【保存版】半年以内にエンジニアになりたい人が読んだ方がいい新卒研修資料まとめ](http://harv-tech.hatenablog.com/entry/new-employee-training)  
+  - [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
+  - [ ] [【保存版】半年以内にエンジニアになりたい人が読んだ方がいい新卒研修資料まとめ](http://harv-tech.hatenablog.com/entry/new-employee-training)
