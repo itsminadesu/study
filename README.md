@@ -281,10 +281,10 @@
     - [x] 第10章 HTML
     - [x] 第11章 microformats
     - [x] 第12章 Atom
-    - [ ] 第13章 Atom Publishing Protocol
-    - [ ] 第14章 JSON
-    - [ ] 第15章 読み取り専用のWebサービスの設計
-    - [ ] 第16章 書き込み可能なWebサービスの設計
+    - [x] 第13章 Atom Publishing Protocol
+    - [x] 第14章 JSON
+    - [x] 第15章 読み取り専用のWebサービスの設計
+    - [x] 第16章 書き込み可能なWebサービスの設計
     - [ ] 第17章 リソースの設計
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
