@@ -91,6 +91,7 @@
   - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 - SQL
   - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
+  - [ ] [BigQueryデータ分析N本ノック](https://github.com/wantedly/wantedly/issues/42563)
 - Oracle
 - MySQL
 - MariaDB
