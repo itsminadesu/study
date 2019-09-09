@@ -21,6 +21,7 @@
   - [x] メタプログラミングRuby
   - [ ] Rubyのしくみ Ruby Under a Microscope
   - [ ] Effective Ruby
+  - [ ] パーフェクトRuby
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
@@ -147,6 +148,7 @@
     - [ ] Railsコア開発環境の構築方法
     - [x] APIドキュメント作成ガイドライン
     - [ ] Railsガイドのガイドライン
+  - [ ] パーフェクトRuby on Rails
 
 - React.js
   - [x] [React(Progate)](https://prog-8.com/languages/react)
