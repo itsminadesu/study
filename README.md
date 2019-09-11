@@ -192,6 +192,7 @@
   - [x] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
   - [x] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
   - [x] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
+  - [ ] WebAPI The Good Parts
 
 ## Authentication/Authorization Methodologles
 - OAuth
