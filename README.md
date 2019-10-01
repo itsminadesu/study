@@ -72,6 +72,7 @@
   - [x] [airbnb / ruby](https://github.com/airbnb/ruby)
   - [x] [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
   - [x] [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
+  - [ ] [ruby-style-guide](https://github.com/fortissimo1997/ruby-style-guide/blob/japanese/README.ja.md)
 
 ## Make and Distribute Some Package/Library
 - [ ] OSS貢献
