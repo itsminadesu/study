@@ -29,6 +29,8 @@
   - [x] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
   - [x] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
   - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
+  - [ ] [現代の JavaScript チュートリアル](https://ja.javascript.info)
+  - [ ] [JavaScript Primer](https://jsprimer.net/)
 - CoffeeScript
   - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
   - [x] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
@@ -164,6 +166,9 @@
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [x] 作りながら学ぶReact入門
   - [ ] React開発 現場の教科書
+
+- Node.js
+  - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 
 ## Learn a NoSQL Database
 - MongoDB
