@@ -210,11 +210,17 @@
 
 ## Authentication/Authorization Methodologles
 - OAuth
+  - [ ] [一番分かりやすい OAuth の説明](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
 - Basic Authentication
 - Token Authentication
 - JWT
 - OpenID
-
+  - [x] [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
+  - [ ] [IDトークンが分かれば OpenID Connect が分かる](https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06)
+  - [ ] [OpenID Connect 全フロー解説](https://qiita.com/TakahikoKawasaki/items/4ee9b55db9f7ef352b47)
+  - [ ] [OAuth & OpenID Connect 関連仕様まとめ](https://qiita.com/TakahikoKawasaki/items/185d34814eb9f7ac7ef3)
+  - [ ] [OAuth & OpenID Connect の不適切実装まとめ](https://qiita.com/TakahikoKawasaki/items/efbbd2c5875577c911a3)
+  - [ ] [OAuth 2.0 + OpenID Connect のフルスクラッチ実装者が知見を語る](https://qiita.com/TakahikoKawasaki/items/f2a0d25a4f05790b3baa)
 ## Message Brokers
 - RabbitMQ
 - Kafka
