@@ -63,6 +63,7 @@
 - Unix
   - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 - Linux
+  - [ ] 新しいLinuxの教科書
 - Windows
 
 ## Networking and Security
