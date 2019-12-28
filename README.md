@@ -294,6 +294,7 @@
 - その他
   - [x] リーダブルコード
   - [x] Webを支える技術
+  - [x] [SOLID原則トレーニング](https://speakerdeck.com/kgmyshin/solid-plus-cqs-plus-dry)
   - [ ] Clean Architecture 達人に学ぶソフトウェアの構造と設計
   - [ ] 達人プログラマー―システム開発の職人から名匠への道
   - [ ] アジャイルソフトウェア開発の奥義
