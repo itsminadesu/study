@@ -48,7 +48,7 @@
   - [ ] Revised TypeScript in Definitelyland
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
-  - [ ] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
+  - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [ ] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
