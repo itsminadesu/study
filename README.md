@@ -53,7 +53,7 @@
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
     - [x] 第一章　Go言語の基本
-    - [ ] 第二章　中級者向け
+    - [x] 第二章　中級者向け
     - [ ] 第三章　エラーハンドリング
     - [ ] 第四章　並列処理
     - [ ] 第五章　テスティング
