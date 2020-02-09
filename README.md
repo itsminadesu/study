@@ -63,6 +63,11 @@
     - [ ] 第九章　システムコールを使用する
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
+  - [ ] [Go / Gin で超簡単なWebアプリを作る](https://qiita.com/hyo_07/items/59c093dda143325b1859)
+  - [ ] [golangでCRUDアプリを実装する](https://qiita.com/micropig3402/items/38555b0f5d3f332afcf7)
+  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで①](https://developers.wano.co.jp/1906/)
+  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで②｜Wano Group Developers Blog](https://developers.wano.co.jp/1948/)
+  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで③｜Wano Group Developers Blog](https://developers.wano.co.jp/1964/)
 - Rust
 - Java
 - Kotlin
