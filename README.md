@@ -2,25 +2,12 @@
 **このリポジトリ見た人は最低1PR送ること！笑**
 
 ## Pick a Language
-- Python
-  - Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
-- Ruby
-  - [ ] 🍒プロを目指す人のRuby入門
-    - [x] 第1章 本書を読み始める前に
-    - [x] 第2章 Rubyの基礎を理解する
-    - [x] 第3章 テストを自動化する
-    - [x] 第4章 配列や繰り返し処理を理解する
-    - [x] 第5章 ハッシュやシンボルを理解する
-    - [ ] 第6章 正規表現を理解する
-    - [x] 第7章 クラス作成を理解する
-    - [x] 第8章 モジュールを理解する
-    - [x] 第9章 例外処理を理解する
-    - [x] 第10章 yieldとProcを理解する
-    - [x] 第11章 Rubyのデバック技法を身につける
-    - [x] 第12章 Rubyに関するその他のトピック
-  - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
+- Python 🐍
+  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
+- Ruby 💎
+  - [x] パーフェクトRuby
+  - [x] プロを目指す人のRuby入門
   - [x] メタプログラミングRuby
-  - [ ] Rubyのしくみ Ruby Under a Microscope
   - [ ] Effective Ruby
     - [x] 第1章 Rubyを体に慣らす
     - [ ] 第2章 クラス、オブジェクト、モジュール
@@ -30,35 +17,30 @@
     - [ ] 第6章 テスティング
     - [ ] 第7章 ツールとライブラリ
     - [ ] 第8章 メモリ管理とパフォーマンス
-  - [ ] パーフェクトRuby
+  - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
+  - [ ] Rubyのしくみ Ruby Under a Microscope
 - PHP
 - JavaScript
   - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
-  - [x] [ES2015(ES6) 入門](https://qiita.com/soarflat/items/b251caf9cb59b72beb9b)
-  - [x] [ES6(ES2015)チートシート](https://qiita.com/morrr/items/883cb902ccda37e840bc)
-  - [x] [イマドキのJavaScriptの書き方2018](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
-  - [ ] [ゼロから始めるJavaScript生活](https://qiita.com/takahashim/items/7838334d1451fb0a9811)
   - [ ] [現代の JavaScript チュートリアル](https://ja.javascript.info)
   - [ ] [JavaScript Primer](https://jsprimer.net/)
 - CoffeeScript
   - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
-  - [x] [CoffeeScript(Railsドキュメント)](http://railsdoc.com/coffeescript)
 - Node.js
+  - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
   - [ ] Revised TypeScript in Definitelyland
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
-  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
+  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
   - [ ] [Go / Gin で超簡単なWebアプリを作る](https://qiita.com/hyo_07/items/59c093dda143325b1859)
   - [ ] [golangでCRUDアプリを実装する](https://qiita.com/micropig3402/items/38555b0f5d3f332afcf7)
-  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで①](https://developers.wano.co.jp/1906/)
-  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで②｜Wano Group Developers Blog](https://developers.wano.co.jp/1948/)
-  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで③｜Wano Group Developers Blog](https://developers.wano.co.jp/1964/)
+  - [ ] [Go言語を学習し始めて、簡単なCRUDアプリをクリーンアーキテクチャで作成するまで①〜③](https://developers.wano.co.jp/1906/)
 - Rust
 - Java
 - Kotlin
@@ -81,7 +63,7 @@
 - SSL/TLS
 
 ## Learn Package Manager
-- [ ] 自作gem作って公開する
+- [ ] 自作gemの作成・公開
 
 ## Standards and Best Practices
 - コーディング規約
@@ -98,12 +80,7 @@
 - RSpec
   - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
   - [x] [Better Specs](http://www.betterspecs.org/)
-  - [x] [使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」](https://qiita.com/jnchito/items/42193d066bd61c740612)
-  - [x] [使えるRSpec入門・その2「使用頻度の高いマッチャを使いこなす」
-](https://qiita.com/jnchito/items/2e79a1abe7cd8214caa5)
-  - [x] [使えるRSpec入門・その3「ゼロからわかるモック（mock）を使ったテストの書き方」](https://qiita.com/jnchito/items/640f17e124ab263a54dd)
-  - [x] [使えるRSpec入門・その4「どんなブラウザ操作も自由自在！逆引きCapybara大辞典」
-](https://qiita.com/jnchito/items/607f956263c38a5fec24)
+  - [x] [使えるRSpec入門 1〜4](https://qiita.com/jnchito/items/42193d066bd61c740612)
 
 ## Learn Relational Databases
 - DB
@@ -121,69 +98,20 @@
 - Ruby on Rails
   - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
+  - [x] パーフェクトRuby on Rails
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
-    - [ ] Railsをはじめよう
-    - [x] Active Recordの基礎
-    - [x] Active Recordマイグレーション
-    - [x] Active Recordバリデーション
-    - [x] Active Recordコールバック
-    - [x] Active Recordの関連付け
-    - [ ] Active Recordクエリインターフェイス
-    - [x] Active RecordとPostgreSQL
-    - [x] Active Modelの基礎
-    - [x] Action Viewの概要
-    - [x] レイアウトとレンダリング
-    - [ ] Action Viewフォームヘルパー
-    - [ ] Action Controllerの概要
-    - [ ] Rails のルーティング
-    - [ ] Active Supportコア拡張機能
-    - [ ] Action Mailerの基礎
-    - [ ] Action Mailboxの基礎
-    - [ ] Action Textの概要
-    - [x] Active Jobの基礎
-    - [x] Active Storageの概要
-    - [ ] Action Cableの概要
-    - [ ] Rails国際化(i18n)API
-    - [ ] Railsテスティングガイド
-    - [ ] Railsセキュリティガイド
-    - [x] Railsアプリケーションのデバッグ
-    - [ ] Railsアプリケーションを設定する
-    - [ ] コマンドラインツール
-    - [x] アセットパイプライン
-    - [ ] RailsでJavaScriptを使用する
-    - [x] Rails の初期化プロセス
-    - [ ] 定数の自動読み込みと再読み込み
-    - [x] Railsのキャッシュ機構
-    - [ ] Active SupportのInstrumentation機能
-    - [ ] Railsアプリケーションのテンプレート
-    - [x] RailsによるAPI専用アプリケーション
-    - [ ] Railsプラグイン作成入門
-    - [ ] RailsとRack
-    - [ ] Railsジェネレータとテンプレート入門
-    - [x] Railsエンジン入門
-    - [ ] Rails のスレッドとコード実行
-    - [ ] Ruby on Rails に貢献する方法
-    - [ ] Railsコア開発環境の構築方法
-    - [x] APIドキュメント作成ガイドライン
-    - [ ] Railsガイドのガイドライン
-  - [ ] パーフェクトRuby on Rails
 
 - React.js
   - [x] [React(Progate)](https://prog-8.com/languages/react)
   - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
   - [x] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
-  - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
   - [x] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
-  - [x] [Reactを使うとなぜjQueryが要らなくなるのか](https://qiita.com/naruto/items/fdb61bc743395f8d8faf)
-  - [x] [5分で理解する React.js](https://qiita.com/tomzoh/items/7fabe7cb57dd96425867)
   - [x] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
   - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
-  - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [x] 作りながら学ぶReact入門
+  - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
+  - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] React開発 現場の教科書
-
-- Node.js
-  - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 
 ## Learn a NoSQL Database
 - MongoDB
@@ -194,26 +122,11 @@
 ## Caching
 - Memcached
 - Redis
-<br><br>
-- [x] [Railsアプリの意味不明な時間を削って速度を10倍にした話](https://qiita.com/srockstyle/items/3f1dad0c88c9ef4c5288)
-- [x] [【Rails 高速化】ペパボのフリマアプリ「kiteco（キテコ）」の API を高速化したときのことを詳しく書いてみた](https://blog.inouetakuya.info/entry/2014/02/08/221438)
-- [x] [Railsアプリを66％スピードアップ ― Railsキャッシュの完全ガイド](https://postd.cc/the-complete-guide-to-rails-caching/)
-- [x] [Rails: データベースのパフォーマンスを損なう3つの書き方（翻訳）](https://techracho.bpsinc.jp/hachi8833/2018_01_11/50793)
 
 ## Creating RESTful APIs
-- API作成
-  - [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
-  - [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
-- WebAPI設計
-  - [x] [翻訳: WebAPI 設計のベストプラクティス](https://qiita.com/mserizawa/items/b833e407d89abd21ee72)
-  - [x] [GoogleのWebAPI設計とWebAPI設計のベストプラクティスを比較してみる](https://qiita.com/howdy39/items/3b2b14ce73ec44c54f7b)
-  - [x] [WebAPIについての説明](https://qiita.com/busyoumono99/items/9b5ffd35dd521bafce47)
-  - [x] [WebAPIでエラーをどう表現すべき？15のサービスを調査してみた](https://qiita.com/suin/items/f7ac4de914e9f3f35884)
-  - [x] [Web APIにはJSONベースのフォーマットを使おう](https://qiita.com/tkawa/items/2841e155e5b51c09ed40)
-  - [x] [Web APIとは何なのか](https://qiita.com/NagaokaKenichi/items/df4c8455ab527aeacf02)
-  - [x] [サーバサイドで複数Web APIを呼び出すときのデザインパターン](https://qiita.com/kawasima/items/38a4594b197d4011e193)
-  - [x] [RESTfulなWeb APIを設計するときに考えること](https://qiita.com/shrkw/items/c6123ca25981e44a3d82)
-  - [ ] WebAPI The Good Parts
+- [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
+- [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
+- [ ] WebAPI The Good Parts
 
 ## Authentication/Authorization Methodologles
 - OAuth
@@ -223,11 +136,6 @@
 - JWT
 - OpenID
   - [x] [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
-  - [ ] [IDトークンが分かれば OpenID Connect が分かる](https://qiita.com/TakahikoKawasaki/items/8f0e422c7edd2d220e06)
-  - [ ] [OpenID Connect 全フロー解説](https://qiita.com/TakahikoKawasaki/items/4ee9b55db9f7ef352b47)
-  - [ ] [OAuth & OpenID Connect 関連仕様まとめ](https://qiita.com/TakahikoKawasaki/items/185d34814eb9f7ac7ef3)
-  - [ ] [OAuth & OpenID Connect の不適切実装まとめ](https://qiita.com/TakahikoKawasaki/items/efbbd2c5875577c911a3)
-  - [ ] [OAuth 2.0 + OpenID Connect のフルスクラッチ実装者が知見を語る](https://qiita.com/TakahikoKawasaki/items/f2a0d25a4f05790b3baa)
 ## Message Brokers
 - RabbitMQ
 - Kafka
@@ -241,7 +149,7 @@
 - Sphinx
 
 ## Learn How to Use Docker
-- 🐳Docker
+- Docker 🐳
   - [ ] [ゼロからはじめるDockerによるアプリケーション実行環境構築(Udemy)](https://www.udemy.com/docker-k/learn/v4/overview)
 
 ## Knowledge of Web Servers
@@ -274,7 +182,7 @@
 - Heroku
 
 ## All the things that weren't mentioned above
-- webpack
+- Webpack
 - Git/GitHub
   - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
   - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
@@ -292,10 +200,7 @@
   - [x] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
   - [ ] オブジェクト指向でなぜつくるのか
 - 正規表現
-  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
-  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その２「微妙な違いを許容しつつ置換しよう](https://qiita.com/jnchito/items/64c3fdc53766ac6f2008)
-  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その３「空白文字を自由自在に操ろう」](https://qiita.com/jnchito/items/6f0c885c1c4929092578)
-  - [ ] [初心者歓迎！手と目で覚える正規表現入門・その４（最終回）「中級者テクニックをマスターしよう」](https://qiita.com/jnchito/items/b0839f4f4651c29da408)
+  - [ ] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
 - その他
   - [x] リーダブルコード
   - [x] Webを支える技術
