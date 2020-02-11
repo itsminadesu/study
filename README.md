@@ -51,16 +51,7 @@
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
-  - [ ] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
-    - [x] 第一章　Go言語の基本
-    - [x] 第二章　中級者向け
-    - [ ] 第三章　エラーハンドリング
-    - [ ] 第四章　並列処理
-    - [ ] 第五章　テスティング
-    - [ ] 第六章　通信
-    - [ ] 第七章　便利な標準ライブラリ
-    - [ ] 第八章　外部ライブラリの利用
-    - [ ] 第九章　システムコールを使用する
+  - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
   - [ ] [Go / Gin で超簡単なWebアプリを作る](https://qiita.com/hyo_07/items/59c093dda143325b1859)
