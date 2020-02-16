@@ -36,6 +36,8 @@
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
+  - [ ] Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る
+  - [ ] みんなのGo言語
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
   - [ ] [Go / Gin で超簡単なWebアプリを作る](https://qiita.com/hyo_07/items/59c093dda143325b1859)
