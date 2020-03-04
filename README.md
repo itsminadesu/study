@@ -50,6 +50,7 @@
   - [x] みんなのGo言語
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
+  - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - Rust
 - Java
 - Kotlin
