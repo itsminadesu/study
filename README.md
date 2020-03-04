@@ -114,8 +114,6 @@
   - [x] [React(Progate)](https://prog-8.com/languages/react)
   - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
   - [x] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
-  - [x] [正真正銘のReactだけの不純物なしでReact入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
-  - [x] [30分間React入門「いいねボタン」作成チュートリアル](http://c16e.com/1510161700/)
   - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [x] 作りながら学ぶReact入門
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
