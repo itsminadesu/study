@@ -41,6 +41,7 @@
   - [ ] はじめての「Go言語」
   - [ ] Goで作るインタプリタ
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
+  - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
 - Rust
 - Java
 - Kotlin
