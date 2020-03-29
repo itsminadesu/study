@@ -43,7 +43,7 @@
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
   - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
     - [x] 1. Goに触れる
-    - [ ] 2. 基本構文
+    - [x] 2. 基本構文
     - [ ] 3. 関数と型
     - [ ] 4. パッケージ
     - [ ] 5. コマンドラインツール
