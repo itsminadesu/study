@@ -105,6 +105,7 @@
 - SQL
   - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
   - [ ] [SQLチュートリアル](http://memopad.bitter.jp/w3c/sql/default.html)
+  - [ ] [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
 - Oracle
 - MySQL
 - MariaDB
