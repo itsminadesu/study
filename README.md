@@ -33,6 +33,7 @@
   - [ ] Revised TypeScript in Definitelyland
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
   - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
+  - [ ] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
