@@ -131,6 +131,8 @@
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] React開発 現場の教科書
 
+- Nuxt.js
+  - [ ] Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発
 ## Learn a NoSQL Database
 - MongoDB
 - RethinkDB
