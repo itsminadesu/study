@@ -31,6 +31,7 @@
 - TypeScript
   - [] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
   - [ ] Revised TypeScript in Definitelyland
+  - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
