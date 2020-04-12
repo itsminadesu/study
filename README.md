@@ -133,6 +133,8 @@
 
 - Nuxt.js
   - [ ] Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発
+  - [ ] Vue.js & Nuxt.js超入門
+
 ## Learn a NoSQL Database
 - MongoDB
 - RethinkDB
