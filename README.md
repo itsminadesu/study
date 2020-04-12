@@ -29,7 +29,7 @@
 - Node.js
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
-  - [] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
+  - [ ] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
   - [ ] Revised TypeScript in Definitelyland
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
   - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
@@ -130,6 +130,9 @@
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
   - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
   - [ ] React開発 現場の教科書
+
+- Vue.js
+  - [x] 基礎から学ぶ Vue.js
 
 - Nuxt.js
   - [ ] Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発
