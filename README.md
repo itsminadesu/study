@@ -34,6 +34,15 @@
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
   - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
   - [ ] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
+    - [ ] 1. イントロダクション
+    - [ ] 2. 変数 / データ型
+    - [ ] 3. 配列・連想配列・列挙体・タプル
+    - [ ] 4. 関数
+    - [ ] 5. 高度な型
+    - [ ] 6. オブジェクト指向構文
+    - [ ] 7. 型注釈としてのインターフェイス
+    - [ ] 8. モジュール
+    - [ ] 9. 高度なプログラミング
   - [ ] [仕事ですぐに使える TypeScript](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
