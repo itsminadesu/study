@@ -33,6 +33,7 @@
   - [ ] Revised TypeScript in Definitelyland
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
   - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
+  - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
   - [ ] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
     - [x] 1. イントロダクション
     - [x] 2. 変数 / データ型
