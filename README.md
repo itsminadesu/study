@@ -30,10 +30,18 @@
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
   - [ ] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
-  - [ ] Revised TypeScript in Definitelyland
-  - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
-  - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
   - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
+    - [ ] 1. 開発環境と設定
+    - [ ] 2. TypeScriptの基礎
+    - [ ] 3. TypeScriptの型推論
+    - [ ] 4. TypeScriptの型安全
+    - [ ] 5. TypeScriptの型システム
+    - [ ] 6. TypeScriptの高度な型
+    - [ ] 7. ReactとTypeScript
+    - [ ] 8. Vue.jsとTypeScript
+    - [ ] 9. ExpressとTypeScript
+    - [ ] 10. Next.jsとTypeScript
+    - [ ] 11. Nuxt.jsとTypeScript
   - [ ] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
     - [x] 1. イントロダクション
     - [x] 2. 変数 / データ型
@@ -45,6 +53,9 @@
     - [ ] 8. モジュール
     - [ ] 9. 高度なプログラミング
   - [ ] [仕事ですぐに使える TypeScript](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
+  - [ ] Revised TypeScript in Definitelyland
+  - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
+  - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
 - Golang
   - [x] [Go(Progate)](https://prog-8.com/languages/go)
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
