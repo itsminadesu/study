@@ -29,7 +29,6 @@
 - Node.js
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
-  - [ ] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
   - [x] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
   - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
     - [ ] 1. 開発環境と設定
