@@ -49,7 +49,7 @@
     - [x] 4. 関数
     - [x] 5. 高度な型
     - [x] 6. オブジェクト指向構文
-    - [ ] 7. 型注釈としてのインターフェイス
+    - [x] 7. 型注釈としてのインターフェイス
     - [ ] 8. モジュール
     - [ ] 9. 高度なプログラミング
   - [ ] [仕事ですぐに使える TypeScript](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
