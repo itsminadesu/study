@@ -30,6 +30,7 @@
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
   - [ ] [TypeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_typescript)
+  - [x] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
   - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
     - [ ] 1. 開発環境と設定
     - [ ] 2. TypeScriptの基礎
@@ -42,16 +43,6 @@
     - [ ] 9. ExpressとTypeScript
     - [ ] 10. Next.jsとTypeScript
     - [ ] 11. Nuxt.jsとTypeScript
-  - [ ] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
-    - [x] 1. イントロダクション
-    - [x] 2. 変数 / データ型
-    - [x] 3. 配列・連想配列・列挙体・タプル
-    - [x] 4. 関数
-    - [x] 5. 高度な型
-    - [x] 6. オブジェクト指向構文
-    - [x] 7. 型注釈としてのインターフェイス
-    - [x] 8. モジュール
-    - [ ] 9. 高度なプログラミング
   - [ ] [仕事ですぐに使える TypeScript](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
   - [ ] Revised TypeScript in Definitelyland
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
