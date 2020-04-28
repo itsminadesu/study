@@ -31,7 +31,7 @@
 - TypeScript
   - [x] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
   - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
-    - [ ] 1. 開発環境と設定
+    - [x] 1. 開発環境と設定
     - [ ] 2. TypeScriptの基礎
     - [ ] 3. TypeScriptの型推論
     - [ ] 4. TypeScriptの型安全
