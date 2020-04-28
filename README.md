@@ -51,12 +51,8 @@
   - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
-  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [x] Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る
   - [x] みんなのGo言語
-  - [ ] はじめての「Go言語」
-  - [ ] Goで作るインタプリタ
-  - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
   - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
     - [x] 1. Goに触れる
     - [x] 2. 基本構文
@@ -69,6 +65,10 @@
     - [ ] 9. ゴルーチンとチャネル
     - [ ] 10. HTTPサーバとクライアント
     - [ ] 11. データベース
+  - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
+  - [ ] はじめての「Go言語」
+  - [ ] Goで作るインタプリタ
+  - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - Rust
 - Java
 - Kotlin
@@ -160,8 +160,6 @@
 - Redis
 
 ## Creating RESTful APIs
-- [x] [はじめてのRails API](https://qiita.com/c5meru/items/1c921676de8a5a038f70)
-- [x] [RailsでWEB API入門](https://qiita.com/yyh-gl/items/30bd91c2b33fdfbe49b5)
 - [ ] WebAPI The Good Parts
 
 ## Authentication/Authorization Methodologles
@@ -172,6 +170,7 @@
 - JWT
 - OpenID
   - [x] [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
+
 ## Message Brokers
 - RabbitMQ
 - Kafka
@@ -220,15 +219,8 @@
 ## All the things that weren't mentioned above
 - Webpack
 - Git/GitHub
-  - [x] [意外と知らない？ Gitコマンド 100本ノック](https://qiita.com/ueki05/items/5c233773e3186989bfd3)
-  - [x] [Gitでやらかした時に使える19個の奥義](https://qiita.com/muran001/items/dea2bbbaea1260098051)
-  - [x] [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://www.atmarkit.co.jp/ait/articles/1708/01/news015.html)
+  - [x] Web制作者のためのGitHubの教科書
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
-- 開発周り
-  - [x] [開発フロー研修 @ Wantedly](https://qiita.com/awakia/items/c571e93e96a1ec28044f)
-  - [x] [コードレビューの際に気をつけること](https://qiita.com/awakia/items/8344ba751426e386e0f5)
-  - [x] [開発インターンで気をつける5つのポイント](https://qiita.com/reikubonaga/items/d00c179957d57f48bf73)
-  - [x] [仕事を任せられるエンジニアになるために意識してほしいこと](https://tech.tabechoku.com/entry/2019/05/02/182457)
 - DDD
   - [ ] 実践ドメイン駆動設計
   - [ ] ボトムアップドメイン駆動設計
@@ -241,10 +233,6 @@
   - [x] リーダブルコード
   - [x] Webを支える技術
   - [x] [SOLID原則トレーニング](https://speakerdeck.com/kgmyshin/solid-plus-cqs-plus-dry)
-  - [ ] Clean Architecture 達人に学ぶソフトウェアの構造と設計
-  - [ ] 達人プログラマー―システム開発の職人から名匠への道
-  - [ ] アジャイルソフトウェア開発の奥義
-  - [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
   - [ ] マスタリングTCP/IP入門編
     - [x] 第1章 ネットワーク基礎知識
     - [x] 第2章 TCP/IP 基礎知識
@@ -255,6 +243,10 @@
     - [ ] 第7章 ルーティングプロトコル
     - [ ] 第8章 アプリケーションプロトコル
     - [ ] 第9章 セキュリティ
+  - [ ] Clean Architecture 達人に学ぶソフトウェアの構造と設計
+  - [ ] 達人プログラマー―システム開発の職人から名匠への道
+  - [ ] アジャイルソフトウェア開発の奥義
+  - [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
   - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
