@@ -3,12 +3,12 @@
 
 ## Pick a Language
 - Python 🐍
-  - [ ] Python 機械学習プログラミング 達人データサイエンティストによる理論と実践
+  - [ ] [Python 機械学習プログラミング 達人データサイエンティストによる理論と実践](https://www.amazon.co.jp/%EF%BC%BB%E7%AC%AC2%E7%89%88%EF%BC%BDPython%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07BF5QZ41/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Python+%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5&qid=1588142649&s=digital-text&sr=1-2)
 - Ruby 💎
-  - [x] パーフェクトRuby
-  - [x] プロを目指す人のRuby入門
-  - [x] メタプログラミングRuby
-  - [ ] Effective Ruby
+  - [x] [パーフェクトRuby](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby-Ruby%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA-ebook/dp/B071K5WM6P/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby&qid=1588142706&s=digital-text&sr=1-2)
+  - [x] [プロを目指す人のRuby入門](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design-plus-ebook/dp/B077Q8BXHC/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AERuby%E5%85%A5%E9%96%80&qid=1588142728&s=digital-text&sr=1-1)
+  - [x] [メタプログラミングRuby](https://www.amazon.co.jp/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0Ruby-%E7%AC%AC2%E7%89%88-Paolo-Perrotta/dp/4873117437/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%A1%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0Ruby&qid=1588142744&s=digital-text&sr=1-1-catcorr)
+  - [ ] [Effective Ruby](https://www.amazon.co.jp/Effective-Ruby-Peter-J-Jones-ebook/dp/B00SF6JN4K/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Effective+Ruby&qid=1588142759&s=digital-text&sr=1-1)
     - [x] 第1章 Rubyを体に慣らす
     - [ ] 第2章 クラス、オブジェクト、モジュール
     - [ ] 第3章 コレクション
@@ -18,7 +18,7 @@
     - [ ] 第7章 ツールとライブラリ
     - [ ] 第8章 メモリ管理とパフォーマンス
   - [ ] [オブジェクト指向スクリプト言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/2.6.0/doc/index.html)
-  - [ ] Rubyのしくみ Ruby Under a Microscope
+  - [ ] [Rubyのしくみ Ruby Under a Microscope](https://www.amazon.co.jp/Ruby%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF-Ruby-Under-Microscope-%EF%BC%B0%EF%BD%81%EF%BD%94%EF%BC%B3%EF%BD%88%EF%BD%81%EF%BD%95%EF%BD%87%EF%BD%88%EF%BD%8E%EF%BD%85%EF%BD%93%EF%BD%93%EF%BD%99-ebook/dp/B01IGW56CU/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Ruby%E3%81%AE%E3%81%97%E3%81%8F%E3%81%BF+Ruby+Under+a+Microscope&qid=1588142778&s=digital-text&sr=1-1)
 - PHP
 - JavaScript
   - [ ] [現代の JavaScript チュートリアル](https://ja.javascript.info)
@@ -26,8 +26,8 @@
 - Node.js
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
-  - [x] 速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！
-  - [ ] 実践TypeScript BFFとNext.js&Nuxt.jsの型定義
+  - [x] [速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！](https://www.amazon.co.jp/%E9%80%9F%E7%BF%92-TypeScript-%E7%AC%AC2%E7%89%88-%E9%80%9F%E7%BF%92%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%B1%B1%E7%94%B0%E7%A5%A5%E5%AF%9B-ebook/dp/B086JKVGPB/ref=sr_1_fkmr0_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%80%9F%E7%BF%92TypeScript%3A+altJS%E3%81%AE%E3%83%87%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%88%E3%82%92%E7%B4%A0%E6%97%A9%E3%81%8F%E5%AD%A6%E3%81%B6%EF%BC%81&qid=1588142799&s=digital-text&sr=1-1-fkmr0)
+  - [ ] [実践TypeScript BFFとNext.js&Nuxt.jsの型定義](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5TypeScript-%E5%90%89%E4%BA%95-%E5%81%A5%E6%96%87-ebook/dp/B07T477V6G/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%AE%9F%E8%B7%B5TypeScript+BFF%E3%81%A8Next.js%26Nuxt.js%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9&qid=1588142815&s=digital-text&sr=1-1)
     - [x] 1. 開発環境と設定
     - [x] 2. TypeScriptの基礎
     - [ ] 3. TypeScriptの型推論
@@ -40,14 +40,13 @@
     - [ ] 10. Next.jsとTypeScript
     - [ ] 11. Nuxt.jsとTypeScript
   - [ ] [仕事ですぐに使える TypeScript](https://future-architect.github.io/typescript-guide/typescript-guide.pdf)
-  - [ ] Revised TypeScript in Definitelyland
-  - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
-  - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
+  - [ ] [プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0TypeScript-%E2%80%95%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8BJavaScript%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Boris-Cherny/dp/4873119049/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0TypeScript+%E2%80%95%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8BJavaScript%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA&qid=1588142882&s=digital-text&sr=8-1)
+  - [ ] [大規模開発でも小規模開発でも使える TypeScript実践入門](https://www.amazon.co.jp/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%96%8B%E7%99%BA%E3%81%A7%E3%82%82%E5%B0%8F%E8%A6%8F%E6%A8%A1%E9%96%8B%E7%99%BA%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B-TypeScript%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-%E5%B7%9D%E4%BF%A3%E6%99%B6-ebook/dp/B00NIN58PS/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%96%8B%E7%99%BA%E3%81%A7%E3%82%82%E5%B0%8F%E8%A6%8F%E6%A8%A1%E9%96%8B%E7%99%BA%E3%81%A7%E3%82%82%E4%BD%BF%E3%81%88%E3%82%8B+TypeScript%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80&qid=1588142897&sr=8-1)
 - Golang
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
-  - [x] Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る
-  - [x] みんなのGo言語
+  - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](https://www.amazon.co.jp/Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Sheong-Chang-ebook/dp/B06XKPNVWV/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80+%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B&qid=1588142910&sr=8-1)
+  - [x] [みんなのGo言語](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E-%E6%9D%BE%E6%9C%A8-%E9%9B%85%E5%B9%B8-ebook/dp/B07VPSXF6N/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E&qid=1588142919&sr=8-1)
   - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
     - [x] 1. Goに触れる
     - [x] 2. 基本構文
@@ -61,25 +60,25 @@
     - [ ] 10. HTTPサーバとクライアント
     - [ ] 11. データベース
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
-  - [ ] はじめての「Go言語」
-  - [ ] Goで作るインタプリタ
+  - [ ] [はじめての「Go言語」](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D-I%E3%83%BB-BOOKS-%E8%8C%A8%E6%9C%A8-%E9%9A%86%E5%BD%B0/dp/4777515591/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D&qid=1588142934&sr=8-2)
+  - [ ] [Go言語で作るインタプリタ](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF-Thorsten-Ball/dp/4873118220/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF&qid=1588142961&sr=8-1)
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
 - Rust
 - Java
 - Kotlin
-  - [ ] Kotlin Webアプリケーション──新しいサーバサイドプログラミング
+  - [ ] [Kotlin Webアプリケーション──新しいサーバサイドプログラミング](https://www.amazon.co.jp/Kotlin-Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E2%94%80%E2%94%80%E6%96%B0%E3%81%97%E3%81%84%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%95%B7%E6%BE%A4%E5%A4%AA%E9%83%8E-ebook/dp/B07NG6B55T/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Kotlin+Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E2%94%80%E2%94%80%E6%96%B0%E3%81%97%E3%81%84%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0&qid=1588142982&sr=8-1)
 
 ## Learn about Managing Servers
 - Unix
 - Linux
-  - [ ] 新しいLinuxの教科書
+  - [ ] [新しいLinuxの教科書](https://www.amazon.co.jp/%E6%96%B0%E3%81%97%E3%81%84Linux%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%B8%89%E5%AE%85-%E8%8B%B1%E6%98%8E-ebook/dp/B072K1NH76/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E6%96%B0%E3%81%97%E3%81%84Linux%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588142995&sr=8-1)
 - Windows
 
 ## Networking and Security
 - DNS
 - HTTP
-  - [ ] 3分間HTTP＆メールプロトコル基礎講座
-  - [ ] HTTPの教科書
+  - [ ] [3分間HTTP＆メールプロトコル基礎講座](https://www.amazon.co.jp/3%E5%88%86%E9%96%93HTTP-%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774140813/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=3%E5%88%86%E9%96%93HTTP%EF%BC%86%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7&qid=1588143006&sr=8-1)
+  - [ ] [HTTPの教科書](https://www.amazon.co.jp/HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%B8%8A%E9%87%8E%E5%AE%A3-ebook/dp/B00EESW7K0/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143016&sr=8-1)
 - HTTPS
 - FTP
 - SSL/TLS
@@ -106,7 +105,7 @@
 
 ## Learn Relational Databases
 - DB
-  - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
+  - [ ] [RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)](https://www.amazon.co.jp/RDBMS%E8%A7%A3%E5%89%96%E5%AD%A6-%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF-DB-Magazine-Selection/dp/4798108642/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=RDBMS%E8%A7%A3%E5%89%96%E5%AD%A6+%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF+%28DB+Magazine+Selection%29&qid=1588143030&sr=8-1)
 - SQL
   - [ ] [SQLチュートリアル](http://memopad.bitter.jp/w3c/sql/default.html)
   - [ ] [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
@@ -120,22 +119,22 @@
 ## Learn a Framework
 - Ruby on Rails
   - [x] [Rails Tutorial](https://railstutorial.jp/)
-  - [x] パーフェクトRuby on Rails
+  - [x] [パーフェクトRuby on Rails](https://www.amazon.co.jp/%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby-Rails-%E3%81%99%E3%81%8C%E3%82%8F%E3%82%89%E3%81%BE%E3%81%95%E3%81%AE%E3%82%8A-ebook/dp/B00P0UR1RU/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby+on+Rails&qid=1588143044&sr=8-1)
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
 
 - React.js
   - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
-  - [x] 作りながら学ぶReact入門
+  - [x] [作りながら学ぶReact入門](https://www.amazon.co.jp/%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6React%E5%85%A5%E9%96%80-%E5%90%89%E7%94%B0%E8%A3%95%E7%BE%8E-ebook/dp/B07BB96LXJ/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BD%9C%E3%82%8A%E3%81%AA%E3%81%8C%E3%82%89%E5%AD%A6%E3%81%B6React%E5%85%A5%E9%96%80&qid=1588143055&sr=8-1)
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
-  - [ ] React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)
-  - [ ] React開発 現場の教科書
+  - [ ] [React入門 React・Reduxの導入からサーバサイドレンダリングによるUXの向上まで (NEXT ONE)](https://www.amazon.co.jp/React%E5%85%A5%E9%96%80-React%E3%83%BBRedux%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8B%E3%82%89%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8BUX%E3%81%AE%E5%90%91%E4%B8%8A%E3%81%BE%E3%81%A7-%E7%A9%B4%E4%BA%95%E5%AE%8F%E5%B9%B8-ebook/dp/B078XDLL2J/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=React%E5%85%A5%E9%96%80+React%E3%83%BBRedux%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%8B%E3%82%89%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89%E3%83%AC%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AB%E3%82%88%E3%82%8BUX%E3%81%AE%E5%90%91%E4%B8%8A%E3%81%BE%E3%81%A7+%28NEXT+ONE%29&qid=1588143067&sr=8-1)
+  - [ ] [React開発 現場の教科書](https://www.amazon.co.jp/React%E9%96%8B%E7%99%BA-%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E7%9F%B3%E6%A9%8B-%E5%95%93%E5%A4%AA-ebook/dp/B07BBGSHJS/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=React%E9%96%8B%E7%99%BA+%E7%8F%BE%E5%A0%B4%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143078&sr=8-1)
 
 - Vue.js
-  - [x] 基礎から学ぶ Vue.js
+  - [x] [基礎から学ぶ Vue.js](https://www.amazon.co.jp/dp/B07D9BYHMZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 - Nuxt.js
-  - [x] Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発
-  - [ ] Vue.js & Nuxt.js超入門
+  - [x] [Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発](https://www.amazon.co.jp/Nuxt-js%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89-%E8%8A%B1%E8%B0%B7%E6%8B%93%E7%A3%A8-ebook/dp/B07J5434JB/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Nuxt.js%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89%E2%80%95Vue.js+%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA&qid=1588143101&s=digital-text&sr=8-1)
+  - [ ] [Vue.js & Nuxt.js超入門](https://www.amazon.co.jp/Vue-js-Nuxt-js%E8%B6%85%E5%85%A5%E9%96%80-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83-ebook/dp/B07X6F1C2P/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Vue.js+%26+Nuxt.js%E8%B6%85%E5%85%A5%E9%96%80&qid=1588143112&sr=8-1)
 
 ## Learn a NoSQL Database
 - MongoDB
@@ -148,7 +147,7 @@
 - Redis
 
 ## Creating RESTful APIs
-- [ ] WebAPI The Good Parts
+- [ ] [WebAPI The Good Parts](https://www.amazon.co.jp/Web-API-Parts-%E6%B0%B4%E9%87%8E-%E8%B2%B4%E6%98%8E/dp/4873116864/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=web+api+the+good+parts&qid=1588143130&sr=8-1)
 
 ## Authentication/Authorization Methodologles
 - OAuth
@@ -207,21 +206,21 @@
 ## All the things that weren't mentioned above
 - Webpack
 - Git/GitHub
-  - [x] Web制作者のためのGitHubの教科書
+  - [x] [Web制作者のためのGitHubの教科書](https://www.amazon.co.jp/Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%8A%B9%E7%8E%87%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB-Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%A1%A9%E8%B0%B7-%E5%95%93-ebook/dp/B00QPSXY1I/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143145&sr=8-1)
   - [ ] [git --local-branching-on-the-cheap](https://git-scm.com/book/ja/v2)
 - DDD
-  - [ ] 実践ドメイン駆動設計
-  - [ ] ボトムアップドメイン駆動設計
+  - [ ] [実践ドメイン駆動設計](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88-%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8E%E3%83%B3-ebook/dp/B00UX9VJGW/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%AE%9F%E8%B7%B5%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88&qid=1588143156&sr=8-1)
+  - [ ] [ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本](https://www.amazon.co.jp/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80-%E3%83%9C%E3%83%88%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%81%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E3%81%AE%E5%9F%BA%E6%9C%AC-%E6%88%90%E7%80%AC-%E5%85%81%E5%AE%A3-ebook/dp/B082WXZVPC/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%9C%E3%83%88%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88&qid=1588143167&sr=8-1)
 - オブジェクト指向設計
-  - [x] オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方
-  - [ ] オブジェクト指向でなぜつくるのか
+  - [x] [オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E8%A8%AD%E8%A8%88%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%EF%BD%9ERuby%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%9F%94%E8%BB%9F%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9-Sandi-Metz-ebook/dp/B01L8SEVYI/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E8%A8%AD%E8%A8%88%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89+%7ERuby%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%9F%94%E8%BB%9F%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9&qid=1588143193&sr=8-1)
+  - [ ] [オブジェクト指向でなぜつくるのか](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B-%E7%AC%AC2%E7%89%88-%E5%B9%B3%E6%BE%A4-%E7%AB%A0-ebook/dp/B00ISP0QB2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B&qid=1588143203&sr=8-1)
 - 正規表現
   - [ ] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
 - その他
-  - [x] リーダブルコード
-  - [x] Webを支える技術
+  - [x] [リーダブルコード](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-1)
+  - [x] [Webを支える技術](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-HTTP%EF%BC%8CURI%EF%BC%8CHTML%EF%BC%8C%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus-ebook/dp/B07JK7FZH2/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-3)
   - [x] [SOLID原則トレーニング](https://speakerdeck.com/kgmyshin/solid-plus-cqs-plus-dry)
-  - [ ] マスタリングTCP/IP入門編
+  - [ ] [マスタリングTCP/IP入門編](https://www.amazon.co.jp/%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0TCP-IP-%E5%85%A5%E9%96%80%E7%B7%A8%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89-%E4%BA%95%E4%B8%8A%E7%9B%B4%E4%B9%9F-ebook/dp/B0827QNDNT/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0TCP%2FIP%E5%85%A5%E9%96%80%E7%B7%A8&qid=1588143238&sr=8-1)
     - [x] 第1章 ネットワーク基礎知識
     - [x] 第2章 TCP/IP 基礎知識
     - [x] 第3章 データリンク
@@ -231,11 +230,11 @@
     - [ ] 第7章 ルーティングプロトコル
     - [ ] 第8章 アプリケーションプロトコル
     - [ ] 第9章 セキュリティ
-  - [ ] Clean Architecture 達人に学ぶソフトウェアの構造と設計
-  - [ ] 達人プログラマー―システム開発の職人から名匠への道
-  - [ ] アジャイルソフトウェア開発の奥義
-  - [ ] イラスト図解式 この一冊で全部わかるWeb技術の基本
+  - [ ] [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/Clean-Architecture-%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4-%EF%BC%B2%EF%BD%8F%EF%BD%82%EF%BD%85%EF%BD%92%EF%BD%94-%EF%BC%A3%EF%BC%8E%EF%BC%AD%EF%BD%81%EF%BD%92%EF%BD%94%EF%BD%89%EF%BD%8E-ebook/dp/B07FSBHS2V/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Clean+Architecture+%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88&qid=1588143250&sr=8-1)
+  - [ ] [達人プログラマー―システム開発の職人から名匠への道](https://www.amazon.co.jp/%E6%96%B0%E8%A3%85%E7%89%88-%E9%81%94%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC-%E8%81%B7%E4%BA%BA%E3%81%8B%E3%82%89%E5%90%8D%E5%8C%A0%E3%81%B8%E3%81%AE%E9%81%93-%EF%BC%A1%EF%BD%8E%EF%BD%84%EF%BD%92%EF%BD%85%EF%BD%97%EF%BC%A8%EF%BD%95%EF%BD%8E%EF%BD%94-ebook/dp/B06W567M44/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%81%94%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E2%80%95%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E8%81%B7%E4%BA%BA%E3%81%8B%E3%82%89%E5%90%8D%E5%8C%A0%E3%81%B8%E3%81%AE%E9%81%93&qid=1588143262&sr=8-1)
+  - [ ] [アジャイルソフトウェア開発の奥義](https://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%A5%A5%E7%BE%A9-%E7%AC%AC2%E7%89%88-%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E9%96%8B%E7%99%BA%E3%81%AE%E7%A5%9E%E9%AB%84%E3%81%A8%E5%8C%A0%E3%81%AE%E6%8A%80-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BBC%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3/dp/4797347783/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%A5%A5%E7%BE%A9&qid=1588143282&sr=8-1)
+  - [ ] [イラスト図解式 この一冊で全部わかるWeb技術の基本](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F+%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC&qid=1588143293&sr=8-1)
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
-  - [ ] 体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践
-  - [ ] プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則
+  - [ ] [体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践](https://www.amazon.co.jp/%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6-%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-%E7%AC%AC2%E7%89%88%EF%BC%BB%E5%9B%BA%E5%AE%9A%E7%89%88%EF%BC%BD-%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5-%E5%BE%B3%E4%B8%B8-%E6%B5%A9-ebook/dp/B07DVY4H3M/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6+%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9+%E7%AC%AC2%E7%89%88+%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5&qid=1588143306&sr=8-1)
+  - [ ] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.amazon.co.jp/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%97%E3%83%AB-%E3%82%AA%E3%83%96-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-3%E5%B9%B4%E7%9B%AE%E3%81%BE%E3%81%A7%E3%81%AB%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84-%E4%B8%80%E7%94%9F%E5%BD%B9%E7%AB%8B%E3%81%A4101%E3%81%AE%E5%8E%9F%E7%90%86%E5%8E%9F%E5%89%87-ebook/dp/B071V7MY82/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%97%E3%83%AB+%E3%82%AA%E3%83%96+%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+3%E5%B9%B4%E7%9B%AE%E3%81%BE%E3%81%A7%E3%81%AB%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84+%E4%B8%80%E7%94%9F%E5%BD%B9%E7%AB%8B%E3%81%A4101%E3%81%AE%E5%8E%9F%E7%90%86%E5%8E%9F%E5%89%87&qid=1588143322&sr=8-1)
