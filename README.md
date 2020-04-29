@@ -21,11 +21,8 @@
   - [ ] Rubyのしくみ Ruby Under a Microscope
 - PHP
 - JavaScript
-  - [x] [JavaScript(Progate)](https://prog-8.com/languages/es6)
   - [ ] [現代の JavaScript チュートリアル](https://ja.javascript.info)
   - [ ] [JavaScript Primer](https://jsprimer.net/)
-- CoffeeScript
-  - [x] [CoffeeScript入門(ドットインストール)](https://dotinstall.com/lessons/basic_coffeescript_v2)
 - Node.js
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
@@ -47,8 +44,6 @@
   - [ ] プログラミングTypeScript ―スケールするJavaScriptアプリケーション開発
   - [ ] 大規模開発でも小規模開発でも使える TypeScript実践入門
 - Golang
-  - [x] [Go(Progate)](https://prog-8.com/languages/go)
-  - [x] [Go言語入門(ドットインストール)](https://dotinstall.com/lessons/basic_golang)
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [x] [はじめてのGo言語](http://cuto.unirita.co.jp/gostudy/)
   - [x] Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る
@@ -76,7 +71,6 @@
 
 ## Learn about Managing Servers
 - Unix
-  - [x] [UNIXコマンド入門(ドットインストール)](https://dotinstall.com/lessons/basic_unix_v2)
 - Linux
   - [ ] 新しいLinuxの教科書
 - Windows
@@ -114,7 +108,6 @@
 - DB
   - [ ] RDBMS解剖学 よくわかるリレーショナルデータベースの仕組み (DB Magazine Selection)
 - SQL
-  - [x] [SQL(Progate)](https://prog-8.com/languages/sql)
   - [ ] [SQLチュートリアル](http://memopad.bitter.jp/w3c/sql/default.html)
   - [ ] [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] [10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)](https://www.amazon.co.jp/exec/obidos/ASIN/4797376279/hatena-blog-22/)
@@ -122,20 +115,15 @@
 - MySQL
 - MariaDB
 - PostgreSQL
-  - [x] [PostgreSQL入門(ドットインストール)](https://dotinstall.com/lessons/basic_postgresql)
 - MSSQL
 
 ## Learn a Framework
 - Ruby on Rails
-  - [x] [Ruby on Rails(Progate)](https://prog-8.com/languages/rails5)
   - [x] [Rails Tutorial](https://railstutorial.jp/)
   - [x] パーフェクトRuby on Rails
   - [ ] [Ruby on Railsガイド](https://railsguides.jp/)
 
 - React.js
-  - [x] [React(Progate)](https://prog-8.com/languages/react)
-  - [x] [React入門(ドットインストール)](https://dotinstall.com/lessons/basic_reactjs)
-  - [x] [ReactでTodo管理アプリを作ろう(ドットインストール)](https://dotinstall.com/lessons/todo_reactjs)
   - [x] [React公式チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
   - [x] 作りながら学ぶReact入門
   - [ ] [React + Reduxを使ったWebアプリケーション開発速習会＠Wantedly](https://qiita.com/shimpeiws/items/df31e2d70cc67c68115d)
