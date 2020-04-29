@@ -30,7 +30,7 @@
   - [ ] [実践TypeScript BFFとNext.js&Nuxt.jsの型定義](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5TypeScript-%E5%90%89%E4%BA%95-%E5%81%A5%E6%96%87-ebook/dp/B07T477V6G/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%AE%9F%E8%B7%B5TypeScript+BFF%E3%81%A8Next.js%26Nuxt.js%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9&qid=1588142815&s=digital-text&sr=1-1)
     - [x] 1. 開発環境と設定
     - [x] 2. TypeScriptの基礎
-    - [ ] 3. TypeScriptの型推論
+    - [x] 3. TypeScriptの型推論
     - [ ] 4. TypeScriptの型安全
     - [ ] 5. TypeScriptの型システム
     - [ ] 6. TypeScriptの高度な型
