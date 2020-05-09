@@ -110,6 +110,7 @@
   - [ ] [SQLチュートリアル](http://memopad.bitter.jp/w3c/sql/default.html)
   - [ ] [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)
   - [ ] [10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)](https://www.amazon.co.jp/exec/obidos/ASIN/4797376279/hatena-blog-22/)
+  - [ ] [SQLアンチパターン](https://www.amazon.co.jp/exec/obidos/ASIN/4873115892/ref=nosim?tag=maftracking172021-22&linkCode=ure&creative=6339)
 - Oracle
 - MySQL
 - MariaDB
