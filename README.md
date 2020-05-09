@@ -112,6 +112,7 @@
   - [ ] [10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)](https://www.amazon.co.jp/exec/obidos/ASIN/4797376279/hatena-blog-22/)
   - [ ] [SQLアンチパターン](https://www.amazon.co.jp/exec/obidos/ASIN/4873115892/ref=nosim?tag=maftracking172021-22&linkCode=ure&creative=6339)
   - [ ] [達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ](https://www.amazon.co.jp/%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6SQL%E5%BE%B9%E5%BA%95%E6%8C%87%E5%8D%97%E6%9B%B8-%E7%AC%AC2%E7%89%88-%E5%88%9D%E7%B4%9A%E8%80%85%E3%81%A7%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8-%E3%83%9F%E3%83%83%E3%82%AF-ebook/dp/B07GB4CNKP/ref=reads_cwrtbar_1/357-7748518-3040904?_encoding=UTF8&pd_rd_i=B07GB4CNKP&pd_rd_r=5f7a15b0-2d54-46fa-853f-d1bb875c5b6e&pd_rd_w=kbk5O&pd_rd_wg=fsVDL&pf_rd_p=64c49d12-7012-452e-9a49-e43c9513f9fc&pf_rd_r=91MPY9H0SCF1J60ZWAMV&psc=1&refRID=91MPY9H0SCF1J60ZWAMV)
+  - [ ] [SQL実践入門──高速でわかりやすいクエリの書き方](https://www.amazon.co.jp/gp/product/4774173010/ref=as_li_tl?ie=UTF8&tag=maaaaaaaa8-22&camp=247&creative=1211&linkCode=as2&creativeASIN=4774173010&linkId=584b5d95c1c6a1560c51d4c5d6f0798b)
 - Oracle
 - MySQL
 - MariaDB
