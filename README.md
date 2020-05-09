@@ -31,7 +31,7 @@
     - [x] 1. 開発環境と設定
     - [x] 2. TypeScriptの基礎
     - [x] 3. TypeScriptの型推論
-    - [ ] 4. TypeScriptの型安全
+    - [x] 4. TypeScriptの型安全
     - [ ] 5. TypeScriptの型システム
     - [ ] 6. TypeScriptの高度な型
     - [ ] 7. ReactとTypeScript
