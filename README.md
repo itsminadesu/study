@@ -32,7 +32,7 @@
     - [x] 2. TypeScriptの基礎
     - [x] 3. TypeScriptの型推論
     - [x] 4. TypeScriptの型安全
-    - [ ] 5. TypeScriptの型システム
+    - [x] 5. TypeScriptの型システム
     - [ ] 6. TypeScriptの高度な型
     - [ ] 7. ReactとTypeScript
     - [ ] 8. Vue.jsとTypeScript
