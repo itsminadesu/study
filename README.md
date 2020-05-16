@@ -137,6 +137,14 @@
 
 - Nuxt.js
   - [x] [Nuxt.jsビギナーズガイド―Vue.js ベースのフレームワークによるシングルページアプリケーション開発](https://www.amazon.co.jp/Nuxt-js%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89-%E8%8A%B1%E8%B0%B7%E6%8B%93%E7%A3%A8-ebook/dp/B07J5434JB/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Nuxt.js%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E3%82%BA%E3%82%AC%E3%82%A4%E3%83%89%E2%80%95Vue.js+%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA&qid=1588143101&s=digital-text&sr=8-1)
+    - [ ] (2周目) 第1章
+    - [ ] (2周目) 第2章
+    - [ ] (2周目) 第3章
+    - [ ] (2周目) 第4章
+    - [ ] (2周目) 第5章
+    - [ ] (2周目) 第6章
+    - [ ] (2周目) 第7章
+    - [ ] (2周目) 第8章
   - [ ] [Vue.js & Nuxt.js超入門](https://www.amazon.co.jp/Vue-js-Nuxt-js%E8%B6%85%E5%85%A5%E9%96%80-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83-ebook/dp/B07X6F1C2P/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Vue.js+%26+Nuxt.js%E8%B6%85%E5%85%A5%E9%96%80&qid=1588143112&sr=8-1)
 
 ## Learn a NoSQL Database
