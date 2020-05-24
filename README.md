@@ -136,7 +136,7 @@
   - [x] [基礎から学ぶ Vue.js](https://www.amazon.co.jp/dp/B07D9BYHMZ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
     - [x] (2周目) 第1章
     - [x] (2周目) 第2章
-    - [ ] (2周目) 第3章
+    - [x] (2周目) 第3章
     - [ ] (2周目) 第4章
     - [ ] (2周目) 第5章
     - [ ] (2周目) 第6章
