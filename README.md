@@ -252,3 +252,6 @@
   - [ ] [ボトルネックがすぐわかる 現場のための Webサーバ高速化教本](https://www.amazon.co.jp/dp/B07SR1QH1J/ref=cm_sw_em_r_mt_dp_U_nFLTEb4TCBGXN)
 - BERT
   - [x] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423.pdf)
+- オープンソースライセンス
+  - [x] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
+  
