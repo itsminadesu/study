@@ -63,6 +63,7 @@
   - [ ] [はじめての「Go言語」](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D-I%E3%83%BB-BOOKS-%E8%8C%A8%E6%9C%A8-%E9%9A%86%E5%BD%B0/dp/4777515591/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D&qid=1588142934&sr=8-2)
   - [ ] [Go言語で作るインタプリタ](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF-Thorsten-Ball/dp/4873118220/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF&qid=1588142961&sr=8-1)
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
+  - [ ] [NuxtとGoではじめるWebアプリ開発](https://www.amazon.co.jp/Nuxt%E3%81%A8Go%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%AF%BA%E7%94%B0-%E6%99%83%E5%A4%A7-ebook/dp/B0823H9Z5L/ref=cm_cr_arp_d_product_top?ie=UTF8)
 - Rust
 - Java
 - Kotlin
@@ -146,6 +147,7 @@
     - [ ] (2周目) 第7章
     - [ ] (2周目) 第8章
   - [ ] [Vue.js & Nuxt.js超入門](https://www.amazon.co.jp/Vue-js-Nuxt-js%E8%B6%85%E5%85%A5%E9%96%80-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83-ebook/dp/B07X6F1C2P/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Vue.js+%26+Nuxt.js%E8%B6%85%E5%85%A5%E9%96%80&qid=1588143112&sr=8-1)
+  - [ ] [NuxtとGoではじめるWebアプリ開発](https://www.amazon.co.jp/Nuxt%E3%81%A8Go%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%AF%BA%E7%94%B0-%E6%99%83%E5%A4%A7-ebook/dp/B0823H9Z5L/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 ## Learn a NoSQL Database
 - MongoDB
