@@ -259,3 +259,5 @@
   - [ ] 4. BERTの実装
   - [ ] 5. XLNet
   - [ ] 6. RoBERTa
+- オープンソースライセンス
+  - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
