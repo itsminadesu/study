@@ -117,6 +117,8 @@
   - [ ] [SQL実践入門──高速でわかりやすいクエリの書き方](https://www.amazon.co.jp/gp/product/4774173010/ref=as_li_tl?ie=UTF8&tag=maaaaaaaa8-22&camp=247&creative=1211&linkCode=as2&creativeASIN=4774173010&linkId=584b5d95c1c6a1560c51d4c5d6f0798b)
 - Oracle
 - MySQL
+  - [ ] [エキスパートのためのMySQL[運用+管理]トラブルシューティングガイド](https://www.amazon.co.jp/gp/product/4774142948/)
+  - [ ] [MySQLチュートリアル](https://dev.mysql.com/doc/refman/5.6/ja/tutorial.html)
 - MariaDB
 - PostgreSQL
 - MSSQL
