@@ -163,6 +163,8 @@
 - Memcached
   - [ ] [Memcached Tutorial](https://www.tutorialspoint.com/memcached/index.htm)
 - Redis
+  - [ ] [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
+  - [ ] [redisドキュメント日本語訳](http://redis.shibu.jp/)
 
 ## Creating RESTful APIs
 - [ ] [WebAPI The Good Parts](https://www.amazon.co.jp/Web-API-Parts-%E6%B0%B4%E9%87%8E-%E8%B2%B4%E6%98%8E/dp/4873116864/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=web+api+the+good+parts&qid=1588143130&sr=8-1)
