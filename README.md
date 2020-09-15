@@ -264,3 +264,4 @@
 - [x] [BERT・XLNetに学ぶ、言語処理における事前学習](https://booth.pm/ja/items/1834866)
 - オープンソースライセンス
   - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
+- [ ] [アルゴリズムを、はじめよう](https://www.amazon.co.jp/dp/4844332015)
