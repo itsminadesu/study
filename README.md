@@ -265,3 +265,4 @@
 - オープンソースライセンス
   - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
 - [ ] [アルゴリズムを、はじめよう](https://www.amazon.co.jp/dp/4844332015)
+- [ ] [超速！ Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる](https://www.amazon.co.jp/dp/B07JJ344WK)
