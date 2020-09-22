@@ -271,3 +271,4 @@
 - [ ] [[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ](https://www.amazon.co.jp/exec/obidos/asin/4774143073/konosumi-22)
 - [ ] [エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング](https://www.amazon.co.jp/exec/obidos/asin/4774196053/konosumi-22)
 - [ ] [Mackerelをはじめる](https://mackerel.io/ja/docs/entry/getting-started)
+- [ ] [DATADOGチュートリアル](https://docs.datadoghq.com/ja/getting_started/)
