@@ -4,6 +4,7 @@
 ## Pick a Language
 - Python 🐍
   - [x] [Python 機械学習プログラミング 達人データサイエンティストによる理論と実践](https://www.amazon.co.jp/%EF%BC%BB%E7%AC%AC2%E7%89%88%EF%BC%BDPython%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-impress-top-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ebook/dp/B07BF5QZ41/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Python+%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5&qid=1588142649&s=digital-text&sr=1-2)
+  - [x] [BERT・XLNetに学ぶ、言語処理における事前学習](https://booth.pm/ja/items/1834866)
 - Ruby 💎
   - [x] [パーフェクトRuby](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby-Ruby%E3%82%B5%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA-ebook/dp/B071K5WM6P/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88Ruby&qid=1588142706&s=digital-text&sr=1-2)
   - [x] [プロを目指す人のRuby入門](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AERuby%E5%85%A5%E9%96%80-%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98%E3%81%8B%E3%82%89%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA%E3%83%BB%E3%83%87%E3%83%90%E3%83%83%E3%82%B0%E6%8A%80%E6%B3%95%E3%81%BE%E3%81%A7-Software-Design-plus-ebook/dp/B077Q8BXHC/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AD%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E4%BA%BA%E3%81%AERuby%E5%85%A5%E9%96%80&qid=1588142728&s=digital-text&sr=1-1)
@@ -84,6 +85,9 @@
 - HTTPS
 - FTP
 - SSL/TLS
+- その他
+  - [ ] [体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践](https://www.amazon.co.jp/%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6-%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-%E7%AC%AC2%E7%89%88%EF%BC%BB%E5%9B%BA%E5%AE%9A%E7%89%88%EF%BC%BD-%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5-%E5%BE%B3%E4%B8%B8-%E6%B5%A9-ebook/dp/B07DVY4H3M/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6+%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9+%E7%AC%AC2%E7%89%88+%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5&qid=1588143306&sr=8-1)
+  - [ ] [Rails セキュリティガイド](https://railsguides.jp/security.html)
 
 ## Learn Package Manager
 - [ ] 自作gemの作成・公開
@@ -100,6 +104,7 @@
 - [ ] OSS貢献
 
 ## Learn about Testing
+- [ ] [テスト駆動開発](https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-Kent-Beck/dp/4274217884/ref=sr_1_1?adgrpid=53026638453&gclid=EAIaIQobChMI4qPMubWg5QIVTWoqCh3m_QogEAAYASAAEgKhovD_BwE&hvadid=338563024267&hvdev=c&hvlocphy=1009308&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=6597956899773646239&hvtargid=kwd-333890551643&hydadcr=16037_11170827&jp-ad-ap=0&keywords=%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA&qid=1571216467&sr=8-1)
 - RSpec
   - [x] [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp/read_full)
   - [x] [Better Specs](http://www.betterspecs.org/)
@@ -237,6 +242,8 @@
   - [ ] [オブジェクト指向でなぜつくるのか](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B-%E7%AC%AC2%E7%89%88-%E5%B9%B3%E6%BE%A4-%E7%AB%A0-ebook/dp/B00ISP0QB2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B&qid=1588143203&sr=8-1)
 - 正規表現
   - [ ] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
+- オープンソースライセンス
+  - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
 - その他
   - [x] [リーダブルコード](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-1)
   - [x] [Webを支える技術](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-HTTP%EF%BC%8CURI%EF%BC%8CHTML%EF%BC%8C%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus-ebook/dp/B07JK7FZH2/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-3)
@@ -257,18 +264,12 @@
   - [ ] [イラスト図解式 この一冊で全部わかるWeb技術の基本](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F+%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC&qid=1588143293&sr=8-1)
   - [ ] [Joel on Software 日本語訳 まとめ](https://komiyak.hatenablog.jp/entry/20140618/1403089671)
   - [ ] [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
-  - [ ] [体系的に学ぶ 安全なWebアプリケーションの作り方 第2版 脆弱性が生まれる原理と対策の実践](https://www.amazon.co.jp/%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6-%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9-%E7%AC%AC2%E7%89%88%EF%BC%BB%E5%9B%BA%E5%AE%9A%E7%89%88%EF%BC%BD-%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5-%E5%BE%B3%E4%B8%B8-%E6%B5%A9-ebook/dp/B07DVY4H3M/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%BD%93%E7%B3%BB%E7%9A%84%E3%81%AB%E5%AD%A6%E3%81%B6+%E5%AE%89%E5%85%A8%E3%81%AAWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9+%E7%AC%AC2%E7%89%88+%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%8E%9F%E7%90%86%E3%81%A8%E5%AF%BE%E7%AD%96%E3%81%AE%E5%AE%9F%E8%B7%B5&qid=1588143306&sr=8-1)
   - [ ] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://www.amazon.co.jp/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%97%E3%83%AB-%E3%82%AA%E3%83%96-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-3%E5%B9%B4%E7%9B%AE%E3%81%BE%E3%81%A7%E3%81%AB%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84-%E4%B8%80%E7%94%9F%E5%BD%B9%E7%AB%8B%E3%81%A4101%E3%81%AE%E5%8E%9F%E7%90%86%E5%8E%9F%E5%89%87-ebook/dp/B071V7MY82/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%97%E3%83%AB+%E3%82%AA%E3%83%96+%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+3%E5%B9%B4%E7%9B%AE%E3%81%BE%E3%81%A7%E3%81%AB%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%81%9F%E3%81%84+%E4%B8%80%E7%94%9F%E5%BD%B9%E7%AB%8B%E3%81%A4101%E3%81%AE%E5%8E%9F%E7%90%86%E5%8E%9F%E5%89%87&qid=1588143322&sr=8-1)
   - [ ] [ボトルネックがすぐわかる 現場のための Webサーバ高速化教本](https://www.amazon.co.jp/dp/B07SR1QH1J/ref=cm_sw_em_r_mt_dp_U_nFLTEb4TCBGXN)
-  - [ ] [Rails セキュリティガイド](https://railsguides.jp/security.html)
-- [x] [BERT・XLNetに学ぶ、言語処理における事前学習](https://booth.pm/ja/items/1834866)
-- オープンソースライセンス
-  - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
-- [ ] [アルゴリズムを、はじめよう](https://www.amazon.co.jp/dp/4844332015)
-- [ ] [超速！ Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる](https://www.amazon.co.jp/dp/B07JJ344WK)
-- [ ] [デザイニングWebアクセシビリティ: アクセシブルな設計やコンテンツ制作のアプローチ](https://www.amazon.co.jp/dp/B01N3CGZ7W/)
-- [ ] [テスト駆動開発](https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-Kent-Beck/dp/4274217884/ref=sr_1_1?adgrpid=53026638453&gclid=EAIaIQobChMI4qPMubWg5QIVTWoqCh3m_QogEAAYASAAEgKhovD_BwE&hvadid=338563024267&hvdev=c&hvlocphy=1009308&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=6597956899773646239&hvtargid=kwd-333890551643&hydadcr=16037_11170827&jp-ad-ap=0&keywords=%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA&qid=1571216467&sr=8-1)
-- [ ] [[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ](https://www.amazon.co.jp/exec/obidos/asin/4774143073/konosumi-22)
-- [ ] [エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング](https://www.amazon.co.jp/exec/obidos/asin/4774196053/konosumi-22)
-- [ ] [Mackerelをはじめる](https://mackerel.io/ja/docs/entry/getting-started)
-- [ ] [DATADOGチュートリアル](https://docs.datadoghq.com/ja/getting_started/)
+  - [ ] [アルゴリズムを、はじめよう](https://www.amazon.co.jp/dp/4844332015)
+  - [ ] [超速！ Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる](https://www.amazon.co.jp/dp/B07JJ344WK)
+  - [ ] [デザイニングWebアクセシビリティ: アクセシブルな設計やコンテンツ制作のアプローチ](https://www.amazon.co.jp/dp/B01N3CGZ7W/)
+  - [ ] [[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ](https://www.amazon.co.jp/exec/obidos/asin/4774143073/konosumi-22)
+  - [ ] [エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング](https://www.amazon.co.jp/exec/obidos/asin/4774196053/konosumi-22)
+  - [ ] [Mackerelをはじめる](https://mackerel.io/ja/docs/entry/getting-started)
+  - [ ] [DATADOGチュートリアル](https://docs.datadoghq.com/ja/getting_started/)
