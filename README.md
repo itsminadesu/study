@@ -206,6 +206,9 @@
 - Caddy
 - MS IIS
 
+## Learn how to manage cloud infrastructure with code
+- [ ] [Infrastructure as Code ―クラウドにおけるサーバ管理の原則とプラクティス](https://www.amazon.co.jp/Infrastructure-Code-%E2%80%95%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%90%E7%AE%A1%E7%90%86%E3%81%AE%E5%8E%9F%E5%89%87%E3%81%A8%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9-Kief-Morris/dp/4873117968/ref=asc_df_4873117968/?tag=jpgo-22&linkCode=df0&hvadid=295704876452&hvpos=&hvnetw=g&hvrand=9249074744330123757&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009324&hvtargid=pla-524842302700&psc=1&th=1&psc=1)
+
 ## Learn how to use Web Sockets
 - WebSocket
 
