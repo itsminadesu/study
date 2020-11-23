@@ -248,6 +248,8 @@
   - [ ] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
 - オープンソースライセンス
   - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
+- パフォーマンス
+  - [ ] [ハイパフォーマンスWebサイト ―高速サイトを実現する14のルール](https://www.amazon.co.jp/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9Web%E3%82%B5%E3%82%A4%E3%83%88-%E2%80%95%E9%AB%98%E9%80%9F%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B14%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB-Steve-Souders/dp/487311361X)
 - その他
   - [x] [リーダブルコード](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-1)
   - [x] [Webを支える技術](https://www.amazon.co.jp/Web%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E6%8A%80%E8%A1%93-HTTP%EF%BC%8CURI%EF%BC%8CHTML%EF%BC%8C%E3%81%9D%E3%81%97%E3%81%A6REST-WEB-PRESS-plus-ebook/dp/B07JK7FZH2/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89&qid=1588143215&sr=8-3)
@@ -277,3 +279,7 @@
   - [ ] [エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング](https://www.amazon.co.jp/exec/obidos/asin/4774196053/konosumi-22)
   - [ ] [Mackerelをはじめる](https://mackerel.io/ja/docs/entry/getting-started)
   - [ ] [DATADOGチュートリアル](https://docs.datadoghq.com/ja/getting_started/)
+  - [ ] [コンピュータはなぜ動くのか～知っておきたいハードウエア＆ソフトウエアの基礎知識～](https://www.amazon.co.jp/dp/4822281655/)
+  - [ ] [アジャイルサムライ−達人開発者への道−](https://www.amazon.co.jp/dp/4274068560/)
+  - [ ] [エンジニアのための データ可視化[実践]入門 ~D3.jsによるWebの可視化](https://www.amazon.co.jp/dp/4774163260/)
+  - [ ] [マイクロインタラクション ―UI/UXデザインの神が宿る細部](https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E2%80%95UI-UX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E7%A5%9E%E3%81%8C%E5%AE%BF%E3%82%8B%E7%B4%B0%E9%83%A8-Dan-Saffer/dp/4873116597)
