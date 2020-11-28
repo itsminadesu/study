@@ -246,6 +246,7 @@
   - [ ] [オブジェクト指向でなぜつくるのか](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B-%E7%AC%AC2%E7%89%88-%E5%B9%B3%E6%BE%A4-%E7%AB%A0-ebook/dp/B00ISP0QB2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B&qid=1588143203&sr=8-1)
 - 正規表現
   - [ ] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
+  - [ ] [詳説 正規表現](https://www.amazon.co.jp/gp/product/4873113598?ie=UTF8&camp=1207&creative=8411&creativeASIN=4873113598&linkCode=shr&tag=junic05-22&=books&qid=1454288225&sr=1-2&keywords=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE)
 - オープンソースライセンス
   - [ ] [google / licenseclassifier](https://github.com/google/licenseclassifier/tree/master/licenses)
 - パフォーマンス
