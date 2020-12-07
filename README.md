@@ -28,6 +28,15 @@
   - [ ] [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html)
 - TypeScript
   - [x] [速習TypeScript: altJSのデファクトスタンダートを素早く学ぶ！](https://www.amazon.co.jp/%E9%80%9F%E7%BF%92-TypeScript-%E7%AC%AC2%E7%89%88-%E9%80%9F%E7%BF%92%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%B1%B1%E7%94%B0%E7%A5%A5%E5%AF%9B-ebook/dp/B086JKVGPB/ref=sr_1_fkmr0_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%80%9F%E7%BF%92TypeScript%3A+altJS%E3%81%AE%E3%83%87%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%88%E3%82%92%E7%B4%A0%E6%97%A9%E3%81%8F%E5%AD%A6%E3%81%B6%EF%BC%81&qid=1588142799&s=digital-text&sr=1-1-fkmr0)
+    - [ ] (2周目)1章
+    - [ ] (2周目)2章
+    - [ ] (2周目)3章
+    - [ ] (2周目)4章
+    - [ ] (2周目)5章
+    - [ ] (2周目)6章
+    - [ ] (2周目)7章
+    - [ ] (2周目)8章
+    - [ ] (2周目)9章
   - [ ] [実践TypeScript BFFとNext.js&Nuxt.jsの型定義](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5TypeScript-%E5%90%89%E4%BA%95-%E5%81%A5%E6%96%87-ebook/dp/B07T477V6G/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E5%AE%9F%E8%B7%B5TypeScript+BFF%E3%81%A8Next.js%26Nuxt.js%E3%81%AE%E5%9E%8B%E5%AE%9A%E7%BE%A9&qid=1588142815&s=digital-text&sr=1-1)
     - [x] 1. 開発環境と設定
     - [x] 2. TypeScriptの基礎
