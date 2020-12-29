@@ -85,7 +85,7 @@
   - [ ] [3分間HTTP＆メールプロトコル基礎講座](https://www.amazon.co.jp/3%E5%88%86%E9%96%93HTTP-%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774140813/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=3%E5%88%86%E9%96%93HTTP%EF%BC%86%E3%83%A1%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7&qid=1588143006&sr=8-1)
   - [ ] [HTTPの教科書](https://www.amazon.co.jp/HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%B8%8A%E9%87%8E%E5%AE%A3-ebook/dp/B00EESW7K0/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143016&sr=8-1)
     - [x] 1. Webとネットワークの基本を知ろう
-    - [ ] 2. シンプルなプロトコルHTTP
+    - [x] 2. シンプルなプロトコルHTTP
     - [ ] 3. HTTPの情報はHTTPメッセージにある
     - [ ] 4. 結果を伝えるHTTPステータスコード
     - [ ] 5. HTTPと連携するWebサーバー
