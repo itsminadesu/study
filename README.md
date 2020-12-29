@@ -86,7 +86,7 @@
   - [ ] [HTTPの教科書](https://www.amazon.co.jp/HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E4%B8%8A%E9%87%8E%E5%AE%A3-ebook/dp/B00EESW7K0/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=HTTP%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143016&sr=8-1)
     - [x] 1. Webとネットワークの基本を知ろう
     - [x] 2. シンプルなプロトコルHTTP
-    - [ ] 3. HTTPの情報はHTTPメッセージにある
+    - [x] 3. HTTPの情報はHTTPメッセージにある
     - [ ] 4. 結果を伝えるHTTPステータスコード
     - [ ] 5. HTTPと連携するWebサーバー
     - [ ] 6. HTTPヘッダー
