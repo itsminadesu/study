@@ -67,6 +67,7 @@
   - [ ] [NuxtとGoではじめるWebアプリ開発](https://www.amazon.co.jp/Nuxt%E3%81%A8Go%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%AF%BA%E7%94%B0-%E6%99%83%E5%A4%A7-ebook/dp/B0823H9Z5L/ref=cm_cr_arp_d_product_top?ie=UTF8)
   - [ ] [Package testing](https://golang.org/pkg/testing/)
   - [ ] [Go言語によるWebアプリケーション開発](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Mat-Ryer/dp/4873117526)
+  - [ ] [Go言語による並行処理](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%A6%E8%A1%8C%E5%87%A6%E7%90%86-Katherine-Cox-Buday/dp/4873118468/ref=pd_bxgy_img_2/357-7365108-4567407?_encoding=UTF8&pd_rd_i=4873118468&pd_rd_r=e94a4278-2b4f-4dac-b43c-bdc7dc05f94d&pd_rd_w=uGrbG&pd_rd_wg=HBfdK&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=27QZGSNXV33PF9B09VWB&psc=1&refRID=27QZGSNXV33PF9B09VWB)
 - Rust
 - Java
 - Kotlin
