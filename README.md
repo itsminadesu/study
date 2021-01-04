@@ -49,17 +49,19 @@
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](https://www.amazon.co.jp/Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Sheong-Chang-ebook/dp/B06XKPNVWV/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80+%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B&qid=1588142910&sr=8-1)
   - [x] [みんなのGo言語](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E-%E6%9D%BE%E6%9C%A8-%E9%9B%85%E5%B9%B8-ebook/dp/B07VPSXF6N/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E&qid=1588142919&sr=8-1)
   - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
-    - [x] 1. Goに触れる
-    - [x] 2. 基本構文
-    - [x] 3. 関数と型
-    - [x] 4. パッケージ
-    - [x] 5. コマンドラインツール
-    - [x] 6. 抽象化
+    - [ ] 1. Goに触れる
+    - [ ] 2. 基本構文
+    - [ ] 3. 関数と型
+    - [ ] 4. パッケージ
+    - [ ] 5. コマンドラインツール
+    - [ ] 6. 抽象化
     - [ ] 7. エラー処理
     - [ ] 8. テストとてスタビリティ
     - [ ] 9. ゴルーチンとチャネル
     - [ ] 10. HTTPサーバとクライアント
     - [ ] 11. データベース
+    - [ ] 12. テキスト処理
+    - [ ] 13. リフレクション
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめての「Go言語」](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D-I%E3%83%BB-BOOKS-%E8%8C%A8%E6%9C%A8-%E9%9A%86%E5%BD%B0/dp/4777515591/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D&qid=1588142934&sr=8-2)
   - [ ] [Go言語で作るインタプリタ](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF-Thorsten-Ball/dp/4873118220/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF&qid=1588142961&sr=8-1)
