@@ -62,13 +62,21 @@
     - [ ] 11. データベース
     - [ ] 12. テキスト処理
     - [ ] 13. リフレクション
+  - [ ] [Go言語によるWebアプリケーション開発](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Mat-Ryer/dp/4873117526)
+    - [ ] 1章
+    - [ ] 2章
+    - [ ] 3章
+    - [ ] 4章
+    - [ ] 5章
+    - [ ] 6章
+    - [ ] 7章
+    - [ ] 8章
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめての「Go言語」](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D-I%E3%83%BB-BOOKS-%E8%8C%A8%E6%9C%A8-%E9%9A%86%E5%BD%B0/dp/4777515591/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D&qid=1588142934&sr=8-2)
   - [ ] [Go言語で作るインタプリタ](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF-Thorsten-Ball/dp/4873118220/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF&qid=1588142961&sr=8-1)
   - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
   - [ ] [NuxtとGoではじめるWebアプリ開発](https://www.amazon.co.jp/Nuxt%E3%81%A8Go%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA-%E6%8A%80%E8%A1%93%E3%81%AE%E6%B3%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E5%AF%BA%E7%94%B0-%E6%99%83%E5%A4%A7-ebook/dp/B0823H9Z5L/ref=cm_cr_arp_d_product_top?ie=UTF8)
   - [ ] [Package testing](https://golang.org/pkg/testing/)
-  - [ ] [Go言語によるWebアプリケーション開発](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Mat-Ryer/dp/4873117526)
   - [ ] [Go言語による並行処理](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8B%E4%B8%A6%E8%A1%8C%E5%87%A6%E7%90%86-Katherine-Cox-Buday/dp/4873118468/ref=pd_bxgy_img_2/357-7365108-4567407?_encoding=UTF8&pd_rd_i=4873118468&pd_rd_r=e94a4278-2b4f-4dac-b43c-bdc7dc05f94d&pd_rd_w=uGrbG&pd_rd_wg=HBfdK&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=27QZGSNXV33PF9B09VWB&psc=1&refRID=27QZGSNXV33PF9B09VWB)
 - Rust
 - Java
