@@ -178,7 +178,7 @@
 
 ## Creating RESTful APIs
 - [ ] [WebAPI The Good Parts](https://www.amazon.co.jp/Web-API-Parts-%E6%B0%B4%E9%87%8E-%E8%B2%B4%E6%98%8E/dp/4873116864/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=web+api+the+good+parts&qid=1588143130&sr=8-1)
-  - [ ] 1章
+  - [x] 1章
   - [ ] 2章
   - [ ] 3章
   - [ ] 4章
