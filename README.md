@@ -51,7 +51,7 @@
   - [ ] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
     - [x] 1. Goに触れる
     - [x] 2. 基本構文
-    - [ ] 3. 関数と型
+    - [x] 3. 関数と型
     - [ ] 4. パッケージ
     - [ ] 5. コマンドラインツール
     - [ ] 6. 抽象化
