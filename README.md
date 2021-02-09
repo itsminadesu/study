@@ -57,9 +57,9 @@
     - [ ] 7章
   - [x] [プログラミング言語Go完全入門](https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_0)
   - [ ] [Go言語によるWebアプリケーション開発](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%AB%E3%82%88%E3%82%8BWeb%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-Mat-Ryer/dp/4873117526)
-    - [ ] 1章
-    - [ ] 2章
-    - [ ] 3章
+    - [x] 1章
+    - [x] 2章
+    - [x] 3章
     - [ ] 4章
     - [ ] 5章
     - [ ] 6章
@@ -245,6 +245,7 @@
 - オブジェクト指向設計
   - [x] [オブジェクト指向設計実践ガイド ~Rubyでわかる 進化しつづける柔軟なアプリケーションの育て方](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E8%A8%AD%E8%A8%88%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89-%EF%BD%9ERuby%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B-%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%9F%94%E8%BB%9F%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9-Sandi-Metz-ebook/dp/B01L8SEVYI/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E8%A8%AD%E8%A8%88%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89+%7ERuby%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B+%E9%80%B2%E5%8C%96%E3%81%97%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%9F%94%E8%BB%9F%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E8%82%B2%E3%81%A6%E6%96%B9&qid=1588143193&sr=8-1)
   - [ ] [オブジェクト指向でなぜつくるのか](https://www.amazon.co.jp/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B-%E7%AC%AC2%E7%89%88-%E5%B9%B3%E6%BE%A4-%E7%AB%A0-ebook/dp/B00ISP0QB2/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A7%E3%81%AA%E3%81%9C%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%AE%E3%81%8B&qid=1588143203&sr=8-1)
+  - [ ] [現場で役立つシステム設計の原則 〜変更を楽で安全にするオブジェクト指向の実践技法](https://www.amazon.co.jp/dp/B073GSDBGT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - 正規表現
   - [x] [初心者歓迎！手と目で覚える正規表現入門 １〜4](https://qiita.com/jnchito/items/893c887fbf19e17d3ff9)
   - [ ] [詳説 正規表現](https://www.amazon.co.jp/gp/product/4873113598?ie=UTF8&camp=1207&creative=8411&creativeASIN=4873113598&linkCode=shr&tag=junic05-22&=books&qid=1454288225&sr=1-2&keywords=%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE)
@@ -290,3 +291,4 @@
   - [ ] [エンジニアのための データ可視化[実践]入門 ~D3.jsによるWebの可視化](https://www.amazon.co.jp/dp/4774163260/)
   - [ ] [マイクロインタラクション ―UI/UXデザインの神が宿る細部](https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E2%80%95UI-UX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E7%A5%9E%E3%81%8C%E5%AE%BF%E3%82%8B%E7%B4%B0%E9%83%A8-Dan-Saffer/dp/4873116597)
   - [ ] [レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス](https://www.amazon.co.jp/%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%8D%B4-%E2%80%95%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E5%AF%BF%E5%91%BD%E3%82%92%E5%BB%B6%E3%81%B0%E3%81%97%E4%BE%A1%E5%80%A4%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B9%E3%81%A4%E3%81%AE%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9-David-Scott-Bernstein/dp/4873118867)
+  - [ ] [Web配信の技術](https://www.amazon.co.jp/Web%E9%85%8D%E4%BF%A1%E3%81%AE%E6%8A%80%E8%A1%93%E2%80%95HTTP%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BBCDN%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B-%E7%94%B0%E4%B8%AD-%E7%A5%A5%E5%B9%B3/dp/4297119250)
