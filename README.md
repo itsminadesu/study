@@ -186,6 +186,7 @@
 - Basic Authentication
 - Token Authentication
 - JWT
+  - [ ] [JWT ハンドブック](https://assets.ctfassets.net/2ntc334xpx65/5HColfm15cUhMmDQnupNzd/30d5913d94e79462043f6d8e3f557351/jwt-handbook-jp.pdf)
 - OpenID
   - [x] [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
 
