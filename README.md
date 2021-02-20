@@ -163,7 +163,7 @@
   - [ ] [MongoDB Tutorials](https://docs.mongodb.com/manual/tutorial/)
   - [ ] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
     - [x] 1章
-    - [ ] 2章
+    - [x] 2章
     - [ ] 3章
     - [ ] 4章
     - [ ] 5章
