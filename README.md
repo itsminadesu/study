@@ -48,9 +48,9 @@
   - [x] [A Tour of Go](https://go-tour-jp.appspot.com/welcome/1)
   - [x] [Goプログラミング実践入門 標準ライブラリでゼロからWebアプリを作る](https://www.amazon.co.jp/Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80-%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B-impress-gear%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Sheong-Chang-ebook/dp/B06XKPNVWV/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80+%E6%A8%99%E6%BA%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8B&qid=1588142910&sr=8-1)
   - [x] [みんなのGo言語](https://www.amazon.co.jp/%E6%94%B9%E8%A8%822%E7%89%88-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E-%E6%9D%BE%E6%9C%A8-%E9%9B%85%E5%B9%B8-ebook/dp/B07VPSXF6N/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AEGo%E8%A8%80%E8%AA%9E&qid=1588142919&sr=8-1)
-    - [ ] 1章
-    - [ ] 2章
-    - [ ] 3章
+    - [x] 1章
+    - [x] 2章
+    - [x] 3章
     - [ ] 4章
     - [ ] 5章
     - [ ] 6章
@@ -60,11 +60,13 @@
     - [x] 1章
     - [x] 2章
     - [x] 3章
-    - [ ] 4章
+    - [x] 4章
     - [ ] 5章
     - [ ] 6章
     - [ ] 7章
     - [ ] 8章
+    - [x] 付録A
+    - [ ] 付録B
   - [ ] [はじめてのGo](http://gihyo.jp/dev/feature/01/go_4beginners)
   - [ ] [はじめての「Go言語」](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D-I%E3%83%BB-BOOKS-%E8%8C%A8%E6%9C%A8-%E9%9A%86%E5%BD%B0/dp/4777515591/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%80%8CGo%E8%A8%80%E8%AA%9E%E3%80%8D&qid=1588142934&sr=8-2)
   - [ ] [Go言語で作るインタプリタ](https://www.amazon.co.jp/Go%E8%A8%80%E8%AA%9E%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF-Thorsten-Ball/dp/4873118220/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Go%E3%81%A7%E4%BD%9C%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%97%E3%83%AA%E3%82%BF&qid=1588142961&sr=8-1)
@@ -159,6 +161,7 @@
 ## Learn a NoSQL Database
 - MongoDB
   - [ ] [MongoDB Tutorials](https://docs.mongodb.com/manual/tutorial/)
+  - [ ] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
 - RethinkDB
 - Cassandra
 - Couchbase
@@ -185,6 +188,7 @@
 - Basic Authentication
 - Token Authentication
 - JWT
+  - [ ] [JWT ハンドブック](https://assets.ctfassets.net/2ntc334xpx65/5HColfm15cUhMmDQnupNzd/30d5913d94e79462043f6d8e3f557351/jwt-handbook-jp.pdf)
 - OpenID
   - [x] [一番分かりやすい OpenID Connect の説明](https://qiita.com/TakahikoKawasaki/items/498ca08bbfcc341691fe)
 
@@ -238,6 +242,9 @@
 - Heroku
 
 ## All the things that weren't mentioned above
+  - Kubernetes
+    - [ ] [入門 Kubernetes](https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Kubernetes-Kelsey-Hightower/dp/4873118409)
+    - [ ] [Kubernetes チュートリアル](https://kubernetes.io/ja/docs/tutorials/)
 - Webpack
 - Git/GitHub
   - [x] [Web制作者のためのGitHubの教科書](https://www.amazon.co.jp/Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%8A%B9%E7%8E%87%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB-Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%A1%A9%E8%B0%B7-%E5%95%93-ebook/dp/B00QPSXY1I/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143145&sr=8-1)
