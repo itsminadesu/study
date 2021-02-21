@@ -160,15 +160,8 @@
 
 ## Learn a NoSQL Database
 - MongoDB
+  - [x] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
   - [ ] [MongoDB Tutorials](https://docs.mongodb.com/manual/tutorial/)
-  - [ ] [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf)
-    - [x] 1章
-    - [x] 2章
-    - [x] 3章
-    - [x] 4章
-    - [x] 5章
-    - [x] 6章
-    - [x] 7章
 - RethinkDB
 - Cassandra
 - Couchbase
