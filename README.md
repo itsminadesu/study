@@ -168,7 +168,7 @@
     - [x] 4章
     - [x] 5章
     - [x] 6章
-    - [ ] 7章
+    - [x] 7章
 - RethinkDB
 - Cassandra
 - Couchbase
