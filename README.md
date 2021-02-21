@@ -167,7 +167,7 @@
     - [x] 3章
     - [x] 4章
     - [x] 5章
-    - [ ] 6章
+    - [x] 6章
     - [ ] 7章
 - RethinkDB
 - Cassandra
