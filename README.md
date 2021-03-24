@@ -279,8 +279,42 @@
     - [ ] 第7章 ルーティングプロトコル
     - [ ] 第8章 アプリケーションプロトコル
     - [ ] 第9章 セキュリティ
-  - [ ] [3分間ネットワーク基礎講座](https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-3%E5%88%86%E9%96%93%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774143731/ref=pd_bxgy_img_2/357-7365108-4567407?_encoding=UTF8&pd_rd_i=4774143731&pd_rd_r=d7fbc29d-0e5c-4af3-906f-e768b144b093&pd_rd_w=XgVtX&pd_rd_wg=4o63K&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=ZWW9YN0A0ZBJC1XBZTME&psc=1&refRID=ZWW9YN0A0ZBJC1XBZTME)
   - [ ] [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/Clean-Architecture-%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4-%EF%BC%B2%EF%BD%8F%EF%BD%82%EF%BD%85%EF%BD%92%EF%BD%94-%EF%BC%A3%EF%BC%8E%EF%BC%AD%EF%BD%81%EF%BD%92%EF%BD%94%EF%BD%89%EF%BD%8E-ebook/dp/B07FSBHS2V/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Clean+Architecture+%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88&qid=1588143250&sr=8-1)
+    - [ ] 第1章
+    - [ ] 第2章
+    - [ ] 第3章
+    - [ ] 第4章
+    - [ ] 第5章
+    - [ ] 第6章
+    - [ ] 第7章
+    - [ ] 第8章
+    - [ ] 第9章
+    - [ ] 第10章
+    - [ ] 第11章
+    - [ ] 第12章
+    - [ ] 第13章
+    - [ ] 第14章
+    - [ ] 第15章
+    - [ ] 第16章
+    - [ ] 第17章
+    - [ ] 第18章
+    - [ ] 第19章
+    - [ ] 第20章
+    - [ ] 第21章
+    - [ ] 第22章
+    - [ ] 第23章
+    - [ ] 第24章
+    - [ ] 第25章
+    - [ ] 第26章
+    - [ ] 第27章
+    - [ ] 第28章
+    - [ ] 第29章
+    - [ ] 第30章
+    - [ ] 第31章
+    - [ ] 第32章
+    - [ ] 第33章
+    - [ ] 第34章
+  - [ ] [3分間ネットワーク基礎講座](https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-3%E5%88%86%E9%96%93%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7-%E7%B6%B2%E9%87%8E-%E8%A1%9B%E4%BA%8C/dp/4774143731/ref=pd_bxgy_img_2/357-7365108-4567407?_encoding=UTF8&pd_rd_i=4774143731&pd_rd_r=d7fbc29d-0e5c-4af3-906f-e768b144b093&pd_rd_w=XgVtX&pd_rd_wg=4o63K&pf_rd_p=e64b0a81-ca1b-4802-bd2c-a4b65bccc76e&pf_rd_r=ZWW9YN0A0ZBJC1XBZTME&psc=1&refRID=ZWW9YN0A0ZBJC1XBZTME)
   - [ ] [達人プログラマー―システム開発の職人から名匠への道](https://www.amazon.co.jp/%E6%96%B0%E8%A3%85%E7%89%88-%E9%81%94%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC-%E8%81%B7%E4%BA%BA%E3%81%8B%E3%82%89%E5%90%8D%E5%8C%A0%E3%81%B8%E3%81%AE%E9%81%93-%EF%BC%A1%EF%BD%8E%EF%BD%84%EF%BD%92%EF%BD%85%EF%BD%97%EF%BC%A8%EF%BD%95%EF%BD%8E%EF%BD%94-ebook/dp/B06W567M44/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%81%94%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E2%80%95%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%AE%E8%81%B7%E4%BA%BA%E3%81%8B%E3%82%89%E5%90%8D%E5%8C%A0%E3%81%B8%E3%81%AE%E9%81%93&qid=1588143262&sr=8-1)
   - [ ] [アジャイルソフトウェア開発の奥義](https://www.amazon.co.jp/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%A5%A5%E7%BE%A9-%E7%AC%AC2%E7%89%88-%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E9%96%8B%E7%99%BA%E3%81%AE%E7%A5%9E%E9%AB%84%E3%81%A8%E5%8C%A0%E3%81%AE%E6%8A%80-%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BBC%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%81%E3%83%B3/dp/4797347783/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%A5%A5%E7%BE%A9&qid=1588143282&sr=8-1)
   - [ ] [イラスト図解式 この一冊で全部わかるWeb技術の基本](https://www.amazon.co.jp/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F-%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC-%E5%B0%8F%E6%9E%97-%E6%81%AD%E5%B9%B3-ebook/dp/B06XNMMC9S/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%9B%B3%E8%A7%A3%E5%BC%8F+%E3%81%93%E3%81%AE%E4%B8%80%E5%86%8A%E3%81%A7%E5%85%A8%E9%83%A8%E3%82%8F%E3%81%8B%E3%82%8BWeb%E6%8A%80%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC&qid=1588143293&sr=8-1)
