@@ -280,7 +280,7 @@
     - [ ] 第8章 アプリケーションプロトコル
     - [ ] 第9章 セキュリティ
   - [ ] [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/Clean-Architecture-%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4-%EF%BC%B2%EF%BD%8F%EF%BD%82%EF%BD%85%EF%BD%92%EF%BD%94-%EF%BC%A3%EF%BC%8E%EF%BC%AD%EF%BD%81%EF%BD%92%EF%BD%94%EF%BD%89%EF%BD%8E-ebook/dp/B07FSBHS2V/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Clean+Architecture+%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88&qid=1588143250&sr=8-1)
-    - [ ] 第1章
+    - [x] 第1章
     - [ ] 第2章
     - [ ] 第3章
     - [ ] 第4章
