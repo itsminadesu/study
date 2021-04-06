@@ -315,7 +315,7 @@
     - [ ] 第33章
     - [ ] 第34章
   - [ ] [Kenro](https://kenro.flatt.tech/)
-    - [ ] Web脆弱性基礎
+    - [x] Web脆弱性基礎
     - [ ] GraphQL
     - [ ] JSON Web Token
     - [ ] WebSocket
