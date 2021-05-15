@@ -245,6 +245,8 @@
 - Kubernetes
   - [ ] [入門 Kubernetes](https://www.amazon.co.jp/%E5%85%A5%E9%96%80-Kubernetes-Kelsey-Hightower/dp/4873118409)
   - [ ] [Kubernetes チュートリアル](https://kubernetes.io/ja/docs/tutorials/)
+- gRPC
+  - [ ] [スターティングgRPC](https://www.amazon.co.jp/dp/B087R87L6Z/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - Webpack
 - Git/GitHub
   - [x] [Web制作者のためのGitHubの教科書](https://www.amazon.co.jp/Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%8A%B9%E7%8E%87%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB-Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%A1%A9%E8%B0%B7-%E5%95%93-ebook/dp/B00QPSXY1I/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1588143145&sr=8-1)
