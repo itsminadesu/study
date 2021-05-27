@@ -249,7 +249,7 @@
   - [ ] [スターティングgRPC](https://www.amazon.co.jp/dp/B087R87L6Z/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
     - [x] 1章
     - [x] 2章
-    - [ ] 3章
+    - [x] 3章
     - [ ] 4章
     - [ ] 5章
     - [ ] 6章
