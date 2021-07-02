@@ -99,7 +99,8 @@
   - [ ] [Rails セキュリティガイド](https://railsguides.jp/security.html)
 
 ## Learn Package Manager
-- [ ] 自作gemの作成・公開
+- npm
+- yarn
 
 ## Standards and Best Practices
 - コーディング規約
